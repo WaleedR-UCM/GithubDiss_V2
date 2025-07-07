@@ -1,0 +1,31 @@
+Gentrification Measurement Steps
+
+-identify which ones meet the minimum requirement...
+        -the following is Rucks-Ahidiana's method, written under
+        (WR_Memo_04.02.24):
+            -Gentrifiable tracts: Tracts must have:
+•	a percentage increase in proportion of college educated residents or a percentage increase in mean family income 
+
+•	a percentage change increase in average housing value or rental costs. 
+
+•	percentage changes need to be at least half standard deviation more than changes in the Metropolitan Statistical Area (MSA)
+
+            -Become gentrified when:
+            Tracts become gentrified if there is an increase in education or income
+(either as Marginal, Income, Super-Gentrification)
+
+based on this here are the steps:
+
+*how do i deal with weighting though?*
+  -don't need to weight because units of analysis are tracts
+1) Find California tracts
+2) start with the year 2000 average
+3) Average out 2016-2018 for college educated residents, mean family income
+   Housing value or rental costs
+4) Subtract the "2017" by 2000 to calculate percentage changes
+4) Find out the average changes for all the MSA
+5) Calculate percentage change, which would be the difference between the 
+new and old year then divide by old year value then + 1 (double check)
+6) Compare tract percent changes to MSA, these should be at least half standard
+deviation change (so need to figure that out) then these will be the gentrifiable tracts
+

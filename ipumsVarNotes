@@ -1,0 +1,3276 @@
+2000 city codebook
+      Table 1:     Population by Urban and Rural
+    Universe:    Persons
+    Source code: NP002A
+    NHGIS code:  FL6
+        FL6001:      Urban
+        FL6002:      Rural
+        FL6003:      Not defined for this file
+ 
+    Table 2:     Housing Units by Urban and Rural
+    Universe:    Housing Units
+    Source code: NH002A
+    NHGIS code:  FKJ
+        FKJ001:      Urban
+        FKJ002:      Rural
+        FKJ003:      Not defined for this file
+   
+2000 MSA codebook
+    Table 1:     Population by Urban and Rural
+    Universe:    Persons
+    Source code: NP002A
+    NHGIS code:  FL6
+        FL6001:      Urban
+        FL6002:      Rural
+        FL6003:      Not defined for this file
+ 
+    Table 2:     Housing Units by Urban and Rural
+    Universe:    Housing Units
+    Source code: NH002A
+    NHGIS code:  FKJ
+        FKJ001:      Urban
+        FKJ002:      Rural
+        FKJ003:      Not defined for this file
+
+2000 Place codebook
+     
+    Table 1:     Population by Urban and Rural
+    Universe:    Persons
+    Source code: NP002A
+    NHGIS code:  FL6
+        FL6001:      Urban
+        FL6002:      Rural
+        FL6003:      Not defined for this file
+ 
+    Table 2:     Housing Units by Urban and Rural
+    Universe:    Housing Units
+    Source code: NH002A
+    NHGIS code:  FKJ
+        FKJ001:      Urban
+        FKJ002:      Rural
+        FKJ003:      Not defined for this file
+
+2000 State codebook
+     
+    Table 1:     Population by Urban and Rural
+    Universe:    Persons
+    Source code: NP002A
+    NHGIS code:  FL6
+        FL6001:      Urban
+        FL6002:      Rural
+        FL6003:      Not defined for this file
+ 
+    Table 2:     Housing Units by Urban and Rural
+    Universe:    Housing Units
+    Source code: NH002A
+    NHGIS code:  FKJ
+        FKJ001:      Urban
+        FKJ002:      Rural
+        FKJ003:      Not defined for this file
+        
+2000 Tract Codebook
+        Table 1:     Population by Urban and Rural
+    Universe:    Persons
+    Source code: NP002A
+    NHGIS code:  FL6
+        FL6001:      Urban
+        FL6002:      Rural
+        FL6003:      Not defined for this file
+ 
+    Table 2:     Housing Units by Urban and Rural
+    Universe:    Housing Units
+    Source code: NH002A
+    NHGIS code:  FKJ
+        FKJ001:      Urban
+        FKJ002:      Rural
+        FKJ003:      Not defined for this file
+
+2000 Urban Area Codebook
+      Table 1:     Population by Urban and Rural
+    Universe:    Persons
+    Source code: NP002A
+    NHGIS code:  FL6
+        FL6001:      Urban
+        FL6002:      Rural
+        FL6003:      Not defined for this file
+ 
+    Table 2:     Housing Units by Urban and Rural
+    Universe:    Housing Units
+    Source code: NH002A
+    NHGIS code:  FKJ
+        FKJ001:      Urban
+        FKJ002:      Rural
+        FKJ003:      Not defined for this file
+        
+2000 Block Group codebook
+    Table 1:     Population by Urban and Rural
+Universe:    Persons
+Source code: NP002A
+NHGIS code:  FXT
+    FXT001:      Urban
+    FXT002:      Rural
+    FXT003:      Not defined for this file
+ 
+Table 2:     Housing Units by Urban and Rural
+Universe:    Housing Units
+Source code: NH002A
+NHGIS code:  FV6
+    FV6001:      Urban
+    FV6002:      Rural
+    FV6003:      Not defined for this file
+    
+2000 Block codebook 
+    Table 1:     Population by Urban and Rural
+Universe:    Persons
+Source code: NP002A
+NHGIS code:  FXT
+    FXT001:      Urban
+    FXT002:      Rural
+    FXT003:      Not defined for this file
+ 
+Table 2:     Housing Units by Urban and Rural
+Universe:    Housing Units
+Source code: NH002A
+NHGIS code:  FV6
+    FV6001:      Urban
+    FV6002:      Rural
+    FV6003:      Not defined for this file
+    
+2000 City Sub Codebook
+     Table 1:     Population 25 Years and Over by Sex by Educational Attainment
+    Universe:    Persons 25 Years and Over
+    Source code: NP037C
+    NHGIS code:  GKT
+        GKT001:      Male >> No schooling completed
+        GKT002:      Male >> Nursery to 4th grade
+        GKT003:      Male >> 5th and 6th grade
+        GKT004:      Male >> 7th and 8th grade
+        GKT005:      Male >> 9th grade
+        GKT006:      Male >> 10th grade
+        GKT007:      Male >> 11th grade
+        GKT008:      Male >> 12th grade, no diploma
+        GKT009:      Male >> High school graduate (includes equivalency)
+        GKT010:      Male >> Some college, less than 1 year
+        GKT011:      Male >> Some college, 1 or more years, no degree
+        GKT012:      Male >> Associate degree
+        GKT013:      Male >> Bachelor's degree
+        GKT014:      Male >> Master's degree
+        GKT015:      Male >> Professional school degree
+        GKT016:      Male >> Doctorate degree
+        GKT017:      Female >> No schooling completed
+        GKT018:      Female >> Nursery to 4th grade
+        GKT019:      Female >> 5th and 6th grade
+        GKT020:      Female >> 7th and 8th grade
+        GKT021:      Female >> 9th grade
+        GKT022:      Female >> 10th grade
+        GKT023:      Female >> 11th grade
+        GKT024:      Female >> 12th grade, no diploma
+        GKT025:      Female >> High school graduate (includes equivalency)
+        GKT026:      Female >> Some college, less than 1 year
+        GKT027:      Female >> Some college, 1 or more years, no degree
+        GKT028:      Female >> Associate degree
+        GKT029:      Female >> Bachelor's degree
+        GKT030:      Female >> Master's degree
+        GKT031:      Female >> Professional school degree
+        GKT032:      Female >> Doctorate degree
+ 
+    Table 2:     Median Household Income in 1999
+    Universe:    Households
+    Source code: NP053A
+    NHGIS code:  GMY
+        GMY001:      Median income in 1999
+ 
+    Table 3:     Year Structure Built
+    Universe:    Housing Units
+    Source code: NH034A
+    NHGIS code:  GAJ
+        GAJ001:      Built 1999 to March 2000
+        GAJ002:      Built 1995 to 1998
+        GAJ003:      Built 1990 to 1994
+        GAJ004:      Built 1980 to 1989
+        GAJ005:      Built 1970 to 1979
+        GAJ006:      Built 1960 to 1969
+        GAJ007:      Built 1950 to 1959
+        GAJ008:      Built 1940 to 1949
+        GAJ009:      Built 1939 or earlier
+ 
+    Table 4:     Median Gross Rent
+    Universe:    Specified Renter-Occupied Housing Units Paying Cash Rent
+    Source code: NH063A
+    NHGIS code:  GBO
+        GBO001:      Median gross rent
+ 
+    Table 5:     Aggregate Gross Rent
+    Universe:    Specified Renter-Occupied Housing Units Paying Cash Rent
+    Source code: NH064A
+    NHGIS code:  GBP
+        GBP001:      Aggregate gross rent
+        
+
+2000 MSA codebook
+    Table 1:     Population 25 Years and Over by Sex by Educational Attainment
+    Universe:    Persons 25 Years and Over
+    Source code: NP037C
+    NHGIS code:  GKT
+        GKT001:      Male >> No schooling completed
+        GKT002:      Male >> Nursery to 4th grade
+        GKT003:      Male >> 5th and 6th grade
+        GKT004:      Male >> 7th and 8th grade
+        GKT005:      Male >> 9th grade
+        GKT006:      Male >> 10th grade
+        GKT007:      Male >> 11th grade
+        GKT008:      Male >> 12th grade, no diploma
+        GKT009:      Male >> High school graduate (includes equivalency)
+        GKT010:      Male >> Some college, less than 1 year
+        GKT011:      Male >> Some college, 1 or more years, no degree
+        GKT012:      Male >> Associate degree
+        GKT013:      Male >> Bachelor's degree
+        GKT014:      Male >> Master's degree
+        GKT015:      Male >> Professional school degree
+        GKT016:      Male >> Doctorate degree
+        GKT017:      Female >> No schooling completed
+        GKT018:      Female >> Nursery to 4th grade
+        GKT019:      Female >> 5th and 6th grade
+        GKT020:      Female >> 7th and 8th grade
+        GKT021:      Female >> 9th grade
+        GKT022:      Female >> 10th grade
+        GKT023:      Female >> 11th grade
+        GKT024:      Female >> 12th grade, no diploma
+        GKT025:      Female >> High school graduate (includes equivalency)
+        GKT026:      Female >> Some college, less than 1 year
+        GKT027:      Female >> Some college, 1 or more years, no degree
+        GKT028:      Female >> Associate degree
+        GKT029:      Female >> Bachelor's degree
+        GKT030:      Female >> Master's degree
+        GKT031:      Female >> Professional school degree
+        GKT032:      Female >> Doctorate degree
+ 
+    Table 2:     Median Household Income in 1999
+    Universe:    Households
+    Source code: NP053A
+    NHGIS code:  GMY
+        GMY001:      Median income in 1999
+ 
+    Table 3:     Year Structure Built
+    Universe:    Housing Units
+    Source code: NH034A
+    NHGIS code:  GAJ
+        GAJ001:      Built 1999 to March 2000
+        GAJ002:      Built 1995 to 1998
+        GAJ003:      Built 1990 to 1994
+        GAJ004:      Built 1980 to 1989
+        GAJ005:      Built 1970 to 1979
+        GAJ006:      Built 1960 to 1969
+        GAJ007:      Built 1950 to 1959
+        GAJ008:      Built 1940 to 1949
+        GAJ009:      Built 1939 or earlier
+ 
+    Table 4:     Median Gross Rent
+    Universe:    Specified Renter-Occupied Housing Units Paying Cash Rent
+    Source code: NH063A
+    NHGIS code:  GBO
+        GBO001:      Median gross rent
+ 
+    Table 5:     Aggregate Gross Rent
+    Universe:    Specified Renter-Occupied Housing Units Paying Cash Rent
+    Source code: NH064A
+    NHGIS code:  GBP
+        GBP001:      Aggregate gross rent
+ 
+
+2000 Place Codebook
+    Table 1:     Population 25 Years and Over by Sex by Educational Attainment
+    Universe:    Persons 25 Years and Over
+    Source code: NP037C
+    NHGIS code:  GKT
+        GKT001:      Male >> No schooling completed
+        GKT002:      Male >> Nursery to 4th grade
+        GKT003:      Male >> 5th and 6th grade
+        GKT004:      Male >> 7th and 8th grade
+        GKT005:      Male >> 9th grade
+        GKT006:      Male >> 10th grade
+        GKT007:      Male >> 11th grade
+        GKT008:      Male >> 12th grade, no diploma
+        GKT009:      Male >> High school graduate (includes equivalency)
+        GKT010:      Male >> Some college, less than 1 year
+        GKT011:      Male >> Some college, 1 or more years, no degree
+        GKT012:      Male >> Associate degree
+        GKT013:      Male >> Bachelor's degree
+        GKT014:      Male >> Master's degree
+        GKT015:      Male >> Professional school degree
+        GKT016:      Male >> Doctorate degree
+        GKT017:      Female >> No schooling completed
+        GKT018:      Female >> Nursery to 4th grade
+        GKT019:      Female >> 5th and 6th grade
+        GKT020:      Female >> 7th and 8th grade
+        GKT021:      Female >> 9th grade
+        GKT022:      Female >> 10th grade
+        GKT023:      Female >> 11th grade
+        GKT024:      Female >> 12th grade, no diploma
+        GKT025:      Female >> High school graduate (includes equivalency)
+        GKT026:      Female >> Some college, less than 1 year
+        GKT027:      Female >> Some college, 1 or more years, no degree
+        GKT028:      Female >> Associate degree
+        GKT029:      Female >> Bachelor's degree
+        GKT030:      Female >> Master's degree
+        GKT031:      Female >> Professional school degree
+        GKT032:      Female >> Doctorate degree
+ 
+    Table 2:     Median Household Income in 1999
+    Universe:    Households
+    Source code: NP053A
+    NHGIS code:  GMY
+        GMY001:      Median income in 1999
+ 
+    Table 3:     Year Structure Built
+    Universe:    Housing Units
+    Source code: NH034A
+    NHGIS code:  GAJ
+        GAJ001:      Built 1999 to March 2000
+        GAJ002:      Built 1995 to 1998
+        GAJ003:      Built 1990 to 1994
+        GAJ004:      Built 1980 to 1989
+        GAJ005:      Built 1970 to 1979
+        GAJ006:      Built 1960 to 1969
+        GAJ007:      Built 1950 to 1959
+        GAJ008:      Built 1940 to 1949
+        GAJ009:      Built 1939 or earlier
+ 
+    Table 4:     Median Gross Rent
+    Universe:    Specified Renter-Occupied Housing Units Paying Cash Rent
+    Source code: NH063A
+    NHGIS code:  GBO
+        GBO001:      Median gross rent
+ 
+    Table 5:     Aggregate Gross Rent
+    Universe:    Specified Renter-Occupied Housing Units Paying Cash Rent
+    Source code: NH064A
+    NHGIS code:  GBP
+        GBP001:      Aggregate gross rent
+        
+
+ds151 2000 State Codebook
+    Table 1:     Population 25 Years and Over by Sex by Educational Attainment
+    Universe:    Persons 25 Years and Over
+    Source code: NP037C
+    NHGIS code:  GKT
+        GKT001:      Male >> No schooling completed
+        GKT002:      Male >> Nursery to 4th grade
+        GKT003:      Male >> 5th and 6th grade
+        GKT004:      Male >> 7th and 8th grade
+        GKT005:      Male >> 9th grade
+        GKT006:      Male >> 10th grade
+        GKT007:      Male >> 11th grade
+        GKT008:      Male >> 12th grade, no diploma
+        GKT009:      Male >> High school graduate (includes equivalency)
+        GKT010:      Male >> Some college, less than 1 year
+        GKT011:      Male >> Some college, 1 or more years, no degree
+        GKT012:      Male >> Associate degree
+        GKT013:      Male >> Bachelor's degree
+        GKT014:      Male >> Master's degree
+        GKT015:      Male >> Professional school degree
+        GKT016:      Male >> Doctorate degree
+        GKT017:      Female >> No schooling completed
+        GKT018:      Female >> Nursery to 4th grade
+        GKT019:      Female >> 5th and 6th grade
+        GKT020:      Female >> 7th and 8th grade
+        GKT021:      Female >> 9th grade
+        GKT022:      Female >> 10th grade
+        GKT023:      Female >> 11th grade
+        GKT024:      Female >> 12th grade, no diploma
+        GKT025:      Female >> High school graduate (includes equivalency)
+        GKT026:      Female >> Some college, less than 1 year
+        GKT027:      Female >> Some college, 1 or more years, no degree
+        GKT028:      Female >> Associate degree
+        GKT029:      Female >> Bachelor's degree
+        GKT030:      Female >> Master's degree
+        GKT031:      Female >> Professional school degree
+        GKT032:      Female >> Doctorate degree
+ 
+    Table 2:     Median Household Income in 1999
+    Universe:    Households
+    Source code: NP053A
+    NHGIS code:  GMY
+        GMY001:      Median income in 1999
+ 
+    Table 3:     Year Structure Built
+    Universe:    Housing Units
+    Source code: NH034A
+    NHGIS code:  GAJ
+        GAJ001:      Built 1999 to March 2000
+        GAJ002:      Built 1995 to 1998
+        GAJ003:      Built 1990 to 1994
+        GAJ004:      Built 1980 to 1989
+        GAJ005:      Built 1970 to 1979
+        GAJ006:      Built 1960 to 1969
+        GAJ007:      Built 1950 to 1959
+        GAJ008:      Built 1940 to 1949
+        GAJ009:      Built 1939 or earlier
+ 
+    Table 4:     Median Gross Rent
+    Universe:    Specified Renter-Occupied Housing Units Paying Cash Rent
+    Source code: NH063A
+    NHGIS code:  GBO
+        GBO001:      Median gross rent
+ 
+    Table 5:     Aggregate Gross Rent
+    Universe:    Specified Renter-Occupied Housing Units Paying Cash Rent
+    Source code: NH064A
+    NHGIS code:  GBP
+        GBP001:      Aggregate gross rent
+        
+ds151 2000 tract codebook
+    Table 1:     Population 25 Years and Over by Sex by Educational Attainment
+    Universe:    Persons 25 Years and Over
+    Source code: NP037C
+    NHGIS code:  GKT
+        GKT001:      Male >> No schooling completed
+        GKT002:      Male >> Nursery to 4th grade
+        GKT003:      Male >> 5th and 6th grade
+        GKT004:      Male >> 7th and 8th grade
+        GKT005:      Male >> 9th grade
+        GKT006:      Male >> 10th grade
+        GKT007:      Male >> 11th grade
+        GKT008:      Male >> 12th grade, no diploma
+        GKT009:      Male >> High school graduate (includes equivalency)
+        GKT010:      Male >> Some college, less than 1 year
+        GKT011:      Male >> Some college, 1 or more years, no degree
+        GKT012:      Male >> Associate degree
+        GKT013:      Male >> Bachelor's degree
+        GKT014:      Male >> Master's degree
+        GKT015:      Male >> Professional school degree
+        GKT016:      Male >> Doctorate degree
+        GKT017:      Female >> No schooling completed
+        GKT018:      Female >> Nursery to 4th grade
+        GKT019:      Female >> 5th and 6th grade
+        GKT020:      Female >> 7th and 8th grade
+        GKT021:      Female >> 9th grade
+        GKT022:      Female >> 10th grade
+        GKT023:      Female >> 11th grade
+        GKT024:      Female >> 12th grade, no diploma
+        GKT025:      Female >> High school graduate (includes equivalency)
+        GKT026:      Female >> Some college, less than 1 year
+        GKT027:      Female >> Some college, 1 or more years, no degree
+        GKT028:      Female >> Associate degree
+        GKT029:      Female >> Bachelor's degree
+        GKT030:      Female >> Master's degree
+        GKT031:      Female >> Professional school degree
+        GKT032:      Female >> Doctorate degree
+ 
+    Table 2:     Median Household Income in 1999
+    Universe:    Households
+    Source code: NP053A
+    NHGIS code:  GMY
+        GMY001:      Median income in 1999
+ 
+    Table 3:     Year Structure Built
+    Universe:    Housing Units
+    Source code: NH034A
+    NHGIS code:  GAJ
+        GAJ001:      Built 1999 to March 2000
+        GAJ002:      Built 1995 to 1998
+        GAJ003:      Built 1990 to 1994
+        GAJ004:      Built 1980 to 1989
+        GAJ005:      Built 1970 to 1979
+        GAJ006:      Built 1960 to 1969
+        GAJ007:      Built 1950 to 1959
+        GAJ008:      Built 1940 to 1949
+        GAJ009:      Built 1939 or earlier
+ 
+    Table 4:     Median Gross Rent
+    Universe:    Specified Renter-Occupied Housing Units Paying Cash Rent
+    Source code: NH063A
+    NHGIS code:  GBO
+        GBO001:      Median gross rent
+ 
+    Table 5:     Aggregate Gross Rent
+    Universe:    Specified Renter-Occupied Housing Units Paying Cash Rent
+    Source code: NH064A
+    NHGIS code:  GBP
+        GBP001:      Aggregate gross rent
+        
+
+ds151 2000 Urban Area Codebook
+    Table 1:     Population 25 Years and Over by Sex by Educational Attainment
+    Universe:    Persons 25 Years and Over
+    Source code: NP037C
+    NHGIS code:  GKT
+        GKT001:      Male >> No schooling completed
+        GKT002:      Male >> Nursery to 4th grade
+        GKT003:      Male >> 5th and 6th grade
+        GKT004:      Male >> 7th and 8th grade
+        GKT005:      Male >> 9th grade
+        GKT006:      Male >> 10th grade
+        GKT007:      Male >> 11th grade
+        GKT008:      Male >> 12th grade, no diploma
+        GKT009:      Male >> High school graduate (includes equivalency)
+        GKT010:      Male >> Some college, less than 1 year
+        GKT011:      Male >> Some college, 1 or more years, no degree
+        GKT012:      Male >> Associate degree
+        GKT013:      Male >> Bachelor's degree
+        GKT014:      Male >> Master's degree
+        GKT015:      Male >> Professional school degree
+        GKT016:      Male >> Doctorate degree
+        GKT017:      Female >> No schooling completed
+        GKT018:      Female >> Nursery to 4th grade
+        GKT019:      Female >> 5th and 6th grade
+        GKT020:      Female >> 7th and 8th grade
+        GKT021:      Female >> 9th grade
+        GKT022:      Female >> 10th grade
+        GKT023:      Female >> 11th grade
+        GKT024:      Female >> 12th grade, no diploma
+        GKT025:      Female >> High school graduate (includes equivalency)
+        GKT026:      Female >> Some college, less than 1 year
+        GKT027:      Female >> Some college, 1 or more years, no degree
+        GKT028:      Female >> Associate degree
+        GKT029:      Female >> Bachelor's degree
+        GKT030:      Female >> Master's degree
+        GKT031:      Female >> Professional school degree
+        GKT032:      Female >> Doctorate degree
+ 
+    Table 2:     Median Household Income in 1999
+    Universe:    Households
+    Source code: NP053A
+    NHGIS code:  GMY
+        GMY001:      Median income in 1999
+ 
+    Table 3:     Year Structure Built
+    Universe:    Housing Units
+    Source code: NH034A
+    NHGIS code:  GAJ
+        GAJ001:      Built 1999 to March 2000
+        GAJ002:      Built 1995 to 1998
+        GAJ003:      Built 1990 to 1994
+        GAJ004:      Built 1980 to 1989
+        GAJ005:      Built 1970 to 1979
+        GAJ006:      Built 1960 to 1969
+        GAJ007:      Built 1950 to 1959
+        GAJ008:      Built 1940 to 1949
+        GAJ009:      Built 1939 or earlier
+ 
+    Table 4:     Median Gross Rent
+    Universe:    Specified Renter-Occupied Housing Units Paying Cash Rent
+    Source code: NH063A
+    NHGIS code:  GBO
+        GBO001:      Median gross rent
+ 
+    Table 5:     Aggregate Gross Rent
+    Universe:    Specified Renter-Occupied Housing Units Paying Cash Rent
+    Source code: NH064A
+    NHGIS code:  GBP
+        GBP001:      Aggregate gross rent
+        
+
+ds223 2016 cbsa codebook
+     Table 1:     Educational Attainment for the Population 25 Years and Over
+    Universe:    Population 25 years and over
+    Source code: B15003
+    NHGIS code:  AFFG
+        AFFGE001:    Total
+        AFFGE002:    No schooling completed
+        AFFGE003:    Nursery school
+        AFFGE004:    Kindergarten
+        AFFGE005:    1st grade
+        AFFGE006:    2nd grade
+        AFFGE007:    3rd grade
+        AFFGE008:    4th grade
+        AFFGE009:    5th grade
+        AFFGE010:    6th grade
+        AFFGE011:    7th grade
+        AFFGE012:    8th grade
+        AFFGE013:    9th grade
+        AFFGE014:    10th grade
+        AFFGE015:    11th grade
+        AFFGE016:    12th grade, no diploma
+        AFFGE017:    Regular high school diploma
+        AFFGE018:    GED or alternative credential
+        AFFGE019:    Some college, less than 1 year
+        AFFGE020:    Some college, 1 or more years, no degree
+        AFFGE021:    Associate's degree
+        AFFGE022:    Bachelor's degree
+        AFFGE023:    Master's degree
+        AFFGE024:    Professional school degree
+        AFFGE025:    Doctorate degree
+ 
+    Table 2:     Household Income in the Past 12 Months (in 2016 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19001
+    NHGIS code:  AFJ8
+        AFJ8E001:    Total
+        AFJ8E002:    Less than $10,000
+        AFJ8E003:    $10,000 to $14,999
+        AFJ8E004:    $15,000 to $19,999
+        AFJ8E005:    $20,000 to $24,999
+        AFJ8E006:    $25,000 to $29,999
+        AFJ8E007:    $30,000 to $34,999
+        AFJ8E008:    $35,000 to $39,999
+        AFJ8E009:    $40,000 to $44,999
+        AFJ8E010:    $45,000 to $49,999
+        AFJ8E011:    $50,000 to $59,999
+        AFJ8E012:    $60,000 to $74,999
+        AFJ8E013:    $75,000 to $99,999
+        AFJ8E014:    $100,000 to $124,999
+        AFJ8E015:    $125,000 to $149,999
+        AFJ8E016:    $150,000 to $199,999
+        AFJ8E017:    $200,000 or more
+ 
+    Table 3:     Median Household Income in the Past 12 Months (in 2016 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19013
+    NHGIS code:  AFKI
+        AFKIE001:    Median household income in the past 12 months (in 2016 inflation-adjusted dollars)
+ 
+    Table 4:     Year Structure Built
+    Universe:    Housing units
+    Source code: B25034
+    NHGIS code:  AFTQ
+        AFTQE001:    Total
+        AFTQE002:    Built 2014 or later
+        AFTQE003:    Built 2010 to 2013
+        AFTQE004:    Built 2000 to 2009
+        AFTQE005:    Built 1990 to 1999
+        AFTQE006:    Built 1980 to 1989
+        AFTQE007:    Built 1970 to 1979
+        AFTQE008:    Built 1960 to 1969
+        AFTQE009:    Built 1950 to 1959
+        AFTQE010:    Built 1940 to 1949
+        AFTQE011:    Built 1939 or earlier
+ 
+    Table 5:     Gross Rent
+    Universe:    Renter-occupied housing units
+    Source code: B25063
+    NHGIS code:  AFUM
+        AFUME001:    Total
+        AFUME002:    With cash rent
+        AFUME003:    With cash rent: Less than $100
+        AFUME004:    With cash rent: $100 to $149
+        AFUME005:    With cash rent: $150 to $199
+        AFUME006:    With cash rent: $200 to $249
+        AFUME007:    With cash rent: $250 to $299
+        AFUME008:    With cash rent: $300 to $349
+        AFUME009:    With cash rent: $350 to $399
+        AFUME010:    With cash rent: $400 to $449
+        AFUME011:    With cash rent: $450 to $499
+        AFUME012:    With cash rent: $500 to $549
+        AFUME013:    With cash rent: $550 to $599
+        AFUME014:    With cash rent: $600 to $649
+        AFUME015:    With cash rent: $650 to $699
+        AFUME016:    With cash rent: $700 to $749
+        AFUME017:    With cash rent: $750 to $799
+        AFUME018:    With cash rent: $800 to $899
+        AFUME019:    With cash rent: $900 to $999
+        AFUME020:    With cash rent: $1,000 to $1,249
+        AFUME021:    With cash rent: $1,250 to $1,499
+        AFUME022:    With cash rent: $1,500 to $1,999
+        AFUME023:    With cash rent: $2,000 to $2,499
+        AFUME024:    With cash rent: $2,500 to $2,999
+        AFUME025:    With cash rent: $3,000 to $3,499
+        AFUME026:    With cash rent: $3,500 or more
+        AFUME027:    No cash rent
+ 
+Data Type (M):
+    Margins of error
+ 
+        NAME_M:      Area Name
+ 
+    Table 1:     Educational Attainment for the Population 25 Years and Over
+    Universe:    Population 25 years and over
+    Source code: B15003
+    NHGIS code:  AFFG
+        AFFGM001:    Total
+        AFFGM002:    No schooling completed
+        AFFGM003:    Nursery school
+        AFFGM004:    Kindergarten
+        AFFGM005:    1st grade
+        AFFGM006:    2nd grade
+        AFFGM007:    3rd grade
+        AFFGM008:    4th grade
+        AFFGM009:    5th grade
+        AFFGM010:    6th grade
+        AFFGM011:    7th grade
+        AFFGM012:    8th grade
+        AFFGM013:    9th grade
+        AFFGM014:    10th grade
+        AFFGM015:    11th grade
+        AFFGM016:    12th grade, no diploma
+        AFFGM017:    Regular high school diploma
+        AFFGM018:    GED or alternative credential
+        AFFGM019:    Some college, less than 1 year
+        AFFGM020:    Some college, 1 or more years, no degree
+        AFFGM021:    Associate's degree
+        AFFGM022:    Bachelor's degree
+        AFFGM023:    Master's degree
+        AFFGM024:    Professional school degree
+        AFFGM025:    Doctorate degree
+ 
+    Table 2:     Household Income in the Past 12 Months (in 2016 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19001
+    NHGIS code:  AFJ8
+        AFJ8M001:    Total
+        AFJ8M002:    Less than $10,000
+        AFJ8M003:    $10,000 to $14,999
+        AFJ8M004:    $15,000 to $19,999
+        AFJ8M005:    $20,000 to $24,999
+        AFJ8M006:    $25,000 to $29,999
+        AFJ8M007:    $30,000 to $34,999
+        AFJ8M008:    $35,000 to $39,999
+        AFJ8M009:    $40,000 to $44,999
+        AFJ8M010:    $45,000 to $49,999
+        AFJ8M011:    $50,000 to $59,999
+        AFJ8M012:    $60,000 to $74,999
+        AFJ8M013:    $75,000 to $99,999
+        AFJ8M014:    $100,000 to $124,999
+        AFJ8M015:    $125,000 to $149,999
+        AFJ8M016:    $150,000 to $199,999
+        AFJ8M017:    $200,000 or more
+ 
+    Table 3:     Median Household Income in the Past 12 Months (in 2016 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19013
+    NHGIS code:  AFKI
+        AFKIM001:    Median household income in the past 12 months (in 2016 inflation-adjusted dollars)
+ 
+    Table 4:     Year Structure Built
+    Universe:    Housing units
+    Source code: B25034
+    NHGIS code:  AFTQ
+        AFTQM001:    Total
+        AFTQM002:    Built 2014 or later
+        AFTQM003:    Built 2010 to 2013
+        AFTQM004:    Built 2000 to 2009
+        AFTQM005:    Built 1990 to 1999
+        AFTQM006:    Built 1980 to 1989
+        AFTQM007:    Built 1970 to 1979
+        AFTQM008:    Built 1960 to 1969
+        AFTQM009:    Built 1950 to 1959
+        AFTQM010:    Built 1940 to 1949
+        AFTQM011:    Built 1939 or earlier
+ 
+    Table 5:     Gross Rent
+    Universe:    Renter-occupied housing units
+    Source code: B25063
+    NHGIS code:  AFUM
+        AFUMM001:    Total
+        AFUMM002:    With cash rent
+        AFUMM003:    With cash rent: Less than $100
+        AFUMM004:    With cash rent: $100 to $149
+        AFUMM005:    With cash rent: $150 to $199
+        AFUMM006:    With cash rent: $200 to $249
+        AFUMM007:    With cash rent: $250 to $299
+        AFUMM008:    With cash rent: $300 to $349
+        AFUMM009:    With cash rent: $350 to $399
+        AFUMM010:    With cash rent: $400 to $449
+        AFUMM011:    With cash rent: $450 to $499
+        AFUMM012:    With cash rent: $500 to $549
+        AFUMM013:    With cash rent: $550 to $599
+        AFUMM014:    With cash rent: $600 to $649
+        AFUMM015:    With cash rent: $650 to $699
+        AFUMM016:    With cash rent: $700 to $749
+        AFUMM017:    With cash rent: $750 to $799
+        AFUMM018:    With cash rent: $800 to $899
+        AFUMM019:    With cash rent: $900 to $999
+        AFUMM020:    With cash rent: $1,000 to $1,249
+        AFUMM021:    With cash rent: $1,250 to $1,499
+        AFUMM022:    With cash rent: $1,500 to $1,999
+        AFUMM023:    With cash rent: $2,000 to $2,499
+        AFUMM024:    With cash rent: $2,500 to $2,999
+        AFUMM025:    With cash rent: $3,000 to $3,499
+        AFUMM026:    With cash rent: $3,500 or more
+        AFUMM027:    No cash rent
+ 
+ 
+2016 city Sub (NO DATA)
+    Tables:
+ 
+1. Educational Attainment for the Population 25 Years and Over
+   Universe:    Population 25 years and over
+   Source code: B15003
+   NHGIS code:  AFFG
+ 
+2. Household Income in the Past 12 Months (in 2016 Inflation-Adjusted Dollars)
+   Universe:    Households
+   Source code: B19001
+   NHGIS code:  AFJ8
+ 
+3. Median Household Income in the Past 12 Months (in 2016 Inflation-Adjusted Dollars)
+   Universe:    Households
+   Source code: B19013
+   NHGIS code:  AFKI
+ 
+4. Year Structure Built
+   Universe:    Housing units
+   Source code: B25034
+   NHGIS code:  AFTQ
+ 
+5. Gross Rent
+   Universe:    Renter-occupied housing units
+   Source code: B25063
+   NHGIS code:  AFUM
+   
+2016 Place Codebook 
+    Data Type (E):
+    Estimates
+ 
+        NAME_E:      Area Name
+ 
+    Table 1:     Educational Attainment for the Population 25 Years and Over
+    Universe:    Population 25 years and over
+    Source code: B15003
+    NHGIS code:  AFFG
+        AFFGE001:    Total
+        AFFGE002:    No schooling completed
+        AFFGE003:    Nursery school
+        AFFGE004:    Kindergarten
+        AFFGE005:    1st grade
+        AFFGE006:    2nd grade
+        AFFGE007:    3rd grade
+        AFFGE008:    4th grade
+        AFFGE009:    5th grade
+        AFFGE010:    6th grade
+        AFFGE011:    7th grade
+        AFFGE012:    8th grade
+        AFFGE013:    9th grade
+        AFFGE014:    10th grade
+        AFFGE015:    11th grade
+        AFFGE016:    12th grade, no diploma
+        AFFGE017:    Regular high school diploma
+        AFFGE018:    GED or alternative credential
+        AFFGE019:    Some college, less than 1 year
+        AFFGE020:    Some college, 1 or more years, no degree
+        AFFGE021:    Associate's degree
+        AFFGE022:    Bachelor's degree
+        AFFGE023:    Master's degree
+        AFFGE024:    Professional school degree
+        AFFGE025:    Doctorate degree
+ 
+    Table 2:     Household Income in the Past 12 Months (in 2016 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19001
+    NHGIS code:  AFJ8
+        AFJ8E001:    Total
+        AFJ8E002:    Less than $10,000
+        AFJ8E003:    $10,000 to $14,999
+        AFJ8E004:    $15,000 to $19,999
+        AFJ8E005:    $20,000 to $24,999
+        AFJ8E006:    $25,000 to $29,999
+        AFJ8E007:    $30,000 to $34,999
+        AFJ8E008:    $35,000 to $39,999
+        AFJ8E009:    $40,000 to $44,999
+        AFJ8E010:    $45,000 to $49,999
+        AFJ8E011:    $50,000 to $59,999
+        AFJ8E012:    $60,000 to $74,999
+        AFJ8E013:    $75,000 to $99,999
+        AFJ8E014:    $100,000 to $124,999
+        AFJ8E015:    $125,000 to $149,999
+        AFJ8E016:    $150,000 to $199,999
+        AFJ8E017:    $200,000 or more
+ 
+    Table 3:     Median Household Income in the Past 12 Months (in 2016 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19013
+    NHGIS code:  AFKI
+        AFKIE001:    Median household income in the past 12 months (in 2016 inflation-adjusted dollars)
+ 
+    Table 4:     Year Structure Built
+    Universe:    Housing units
+    Source code: B25034
+    NHGIS code:  AFTQ
+        AFTQE001:    Total
+        AFTQE002:    Built 2014 or later
+        AFTQE003:    Built 2010 to 2013
+        AFTQE004:    Built 2000 to 2009
+        AFTQE005:    Built 1990 to 1999
+        AFTQE006:    Built 1980 to 1989
+        AFTQE007:    Built 1970 to 1979
+        AFTQE008:    Built 1960 to 1969
+        AFTQE009:    Built 1950 to 1959
+        AFTQE010:    Built 1940 to 1949
+        AFTQE011:    Built 1939 or earlier
+ 
+    Table 5:     Gross Rent
+    Universe:    Renter-occupied housing units
+    Source code: B25063
+    NHGIS code:  AFUM
+        AFUME001:    Total
+        AFUME002:    With cash rent
+        AFUME003:    With cash rent: Less than $100
+        AFUME004:    With cash rent: $100 to $149
+        AFUME005:    With cash rent: $150 to $199
+        AFUME006:    With cash rent: $200 to $249
+        AFUME007:    With cash rent: $250 to $299
+        AFUME008:    With cash rent: $300 to $349
+        AFUME009:    With cash rent: $350 to $399
+        AFUME010:    With cash rent: $400 to $449
+        AFUME011:    With cash rent: $450 to $499
+        AFUME012:    With cash rent: $500 to $549
+        AFUME013:    With cash rent: $550 to $599
+        AFUME014:    With cash rent: $600 to $649
+        AFUME015:    With cash rent: $650 to $699
+        AFUME016:    With cash rent: $700 to $749
+        AFUME017:    With cash rent: $750 to $799
+        AFUME018:    With cash rent: $800 to $899
+        AFUME019:    With cash rent: $900 to $999
+        AFUME020:    With cash rent: $1,000 to $1,249
+        AFUME021:    With cash rent: $1,250 to $1,499
+        AFUME022:    With cash rent: $1,500 to $1,999
+        AFUME023:    With cash rent: $2,000 to $2,499
+        AFUME024:    With cash rent: $2,500 to $2,999
+        AFUME025:    With cash rent: $3,000 to $3,499
+        AFUME026:    With cash rent: $3,500 or more
+        AFUME027:    No cash rent
+ 
+Data Type (M):
+    Margins of error
+ 
+        NAME_M:      Area Name
+ 
+    Table 1:     Educational Attainment for the Population 25 Years and Over
+    Universe:    Population 25 years and over
+    Source code: B15003
+    NHGIS code:  AFFG
+        AFFGM001:    Total
+        AFFGM002:    No schooling completed
+        AFFGM003:    Nursery school
+        AFFGM004:    Kindergarten
+        AFFGM005:    1st grade
+        AFFGM006:    2nd grade
+        AFFGM007:    3rd grade
+        AFFGM008:    4th grade
+        AFFGM009:    5th grade
+        AFFGM010:    6th grade
+        AFFGM011:    7th grade
+        AFFGM012:    8th grade
+        AFFGM013:    9th grade
+        AFFGM014:    10th grade
+        AFFGM015:    11th grade
+        AFFGM016:    12th grade, no diploma
+        AFFGM017:    Regular high school diploma
+        AFFGM018:    GED or alternative credential
+        AFFGM019:    Some college, less than 1 year
+        AFFGM020:    Some college, 1 or more years, no degree
+        AFFGM021:    Associate's degree
+        AFFGM022:    Bachelor's degree
+        AFFGM023:    Master's degree
+        AFFGM024:    Professional school degree
+        AFFGM025:    Doctorate degree
+ 
+    Table 2:     Household Income in the Past 12 Months (in 2016 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19001
+    NHGIS code:  AFJ8
+        AFJ8M001:    Total
+        AFJ8M002:    Less than $10,000
+        AFJ8M003:    $10,000 to $14,999
+        AFJ8M004:    $15,000 to $19,999
+        AFJ8M005:    $20,000 to $24,999
+        AFJ8M006:    $25,000 to $29,999
+        AFJ8M007:    $30,000 to $34,999
+        AFJ8M008:    $35,000 to $39,999
+        AFJ8M009:    $40,000 to $44,999
+        AFJ8M010:    $45,000 to $49,999
+        AFJ8M011:    $50,000 to $59,999
+        AFJ8M012:    $60,000 to $74,999
+        AFJ8M013:    $75,000 to $99,999
+        AFJ8M014:    $100,000 to $124,999
+        AFJ8M015:    $125,000 to $149,999
+        AFJ8M016:    $150,000 to $199,999
+        AFJ8M017:    $200,000 or more
+ 
+    Table 3:     Median Household Income in the Past 12 Months (in 2016 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19013
+    NHGIS code:  AFKI
+        AFKIM001:    Median household income in the past 12 months (in 2016 inflation-adjusted dollars)
+ 
+    Table 4:     Year Structure Built
+    Universe:    Housing units
+    Source code: B25034
+    NHGIS code:  AFTQ
+        AFTQM001:    Total
+        AFTQM002:    Built 2014 or later
+        AFTQM003:    Built 2010 to 2013
+        AFTQM004:    Built 2000 to 2009
+        AFTQM005:    Built 1990 to 1999
+        AFTQM006:    Built 1980 to 1989
+        AFTQM007:    Built 1970 to 1979
+        AFTQM008:    Built 1960 to 1969
+        AFTQM009:    Built 1950 to 1959
+        AFTQM010:    Built 1940 to 1949
+        AFTQM011:    Built 1939 or earlier
+ 
+    Table 5:     Gross Rent
+    Universe:    Renter-occupied housing units
+    Source code: B25063
+    NHGIS code:  AFUM
+        AFUMM001:    Total
+        AFUMM002:    With cash rent
+        AFUMM003:    With cash rent: Less than $100
+        AFUMM004:    With cash rent: $100 to $149
+        AFUMM005:    With cash rent: $150 to $199
+        AFUMM006:    With cash rent: $200 to $249
+        AFUMM007:    With cash rent: $250 to $299
+        AFUMM008:    With cash rent: $300 to $349
+        AFUMM009:    With cash rent: $350 to $399
+        AFUMM010:    With cash rent: $400 to $449
+        AFUMM011:    With cash rent: $450 to $499
+        AFUMM012:    With cash rent: $500 to $549
+        AFUMM013:    With cash rent: $550 to $599
+        AFUMM014:    With cash rent: $600 to $649
+        AFUMM015:    With cash rent: $650 to $699
+        AFUMM016:    With cash rent: $700 to $749
+        AFUMM017:    With cash rent: $750 to $799
+        AFUMM018:    With cash rent: $800 to $899
+        AFUMM019:    With cash rent: $900 to $999
+        AFUMM020:    With cash rent: $1,000 to $1,249
+        AFUMM021:    With cash rent: $1,250 to $1,499
+        AFUMM022:    With cash rent: $1,500 to $1,999
+        AFUMM023:    With cash rent: $2,000 to $2,499
+        AFUMM024:    With cash rent: $2,500 to $2,999
+        AFUMM025:    With cash rent: $3,000 to $3,499
+        AFUMM026:    With cash rent: $3,500 or more
+        AFUMM027:    No cash rent
+ 
+2016 State Codebook
+
+    Data Type (E):
+    Estimates
+ 
+        NAME_E:      Area Name
+ 
+    Table 1:     Educational Attainment for the Population 25 Years and Over
+    Universe:    Population 25 years and over
+    Source code: B15003
+    NHGIS code:  AFFG
+        AFFGE001:    Total
+        AFFGE002:    No schooling completed
+        AFFGE003:    Nursery school
+        AFFGE004:    Kindergarten
+        AFFGE005:    1st grade
+        AFFGE006:    2nd grade
+        AFFGE007:    3rd grade
+        AFFGE008:    4th grade
+        AFFGE009:    5th grade
+        AFFGE010:    6th grade
+        AFFGE011:    7th grade
+        AFFGE012:    8th grade
+        AFFGE013:    9th grade
+        AFFGE014:    10th grade
+        AFFGE015:    11th grade
+        AFFGE016:    12th grade, no diploma
+        AFFGE017:    Regular high school diploma
+        AFFGE018:    GED or alternative credential
+        AFFGE019:    Some college, less than 1 year
+        AFFGE020:    Some college, 1 or more years, no degree
+        AFFGE021:    Associate's degree
+        AFFGE022:    Bachelor's degree
+        AFFGE023:    Master's degree
+        AFFGE024:    Professional school degree
+        AFFGE025:    Doctorate degree
+ 
+    Table 2:     Household Income in the Past 12 Months (in 2016 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19001
+    NHGIS code:  AFJ8
+        AFJ8E001:    Total
+        AFJ8E002:    Less than $10,000
+        AFJ8E003:    $10,000 to $14,999
+        AFJ8E004:    $15,000 to $19,999
+        AFJ8E005:    $20,000 to $24,999
+        AFJ8E006:    $25,000 to $29,999
+        AFJ8E007:    $30,000 to $34,999
+        AFJ8E008:    $35,000 to $39,999
+        AFJ8E009:    $40,000 to $44,999
+        AFJ8E010:    $45,000 to $49,999
+        AFJ8E011:    $50,000 to $59,999
+        AFJ8E012:    $60,000 to $74,999
+        AFJ8E013:    $75,000 to $99,999
+        AFJ8E014:    $100,000 to $124,999
+        AFJ8E015:    $125,000 to $149,999
+        AFJ8E016:    $150,000 to $199,999
+        AFJ8E017:    $200,000 or more
+ 
+    Table 3:     Median Household Income in the Past 12 Months (in 2016 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19013
+    NHGIS code:  AFKI
+        AFKIE001:    Median household income in the past 12 months (in 2016 inflation-adjusted dollars)
+ 
+    Table 4:     Year Structure Built
+    Universe:    Housing units
+    Source code: B25034
+    NHGIS code:  AFTQ
+        AFTQE001:    Total
+        AFTQE002:    Built 2014 or later
+        AFTQE003:    Built 2010 to 2013
+        AFTQE004:    Built 2000 to 2009
+        AFTQE005:    Built 1990 to 1999
+        AFTQE006:    Built 1980 to 1989
+        AFTQE007:    Built 1970 to 1979
+        AFTQE008:    Built 1960 to 1969
+        AFTQE009:    Built 1950 to 1959
+        AFTQE010:    Built 1940 to 1949
+        AFTQE011:    Built 1939 or earlier
+ 
+    Table 5:     Gross Rent
+    Universe:    Renter-occupied housing units
+    Source code: B25063
+    NHGIS code:  AFUM
+        AFUME001:    Total
+        AFUME002:    With cash rent
+        AFUME003:    With cash rent: Less than $100
+        AFUME004:    With cash rent: $100 to $149
+        AFUME005:    With cash rent: $150 to $199
+        AFUME006:    With cash rent: $200 to $249
+        AFUME007:    With cash rent: $250 to $299
+        AFUME008:    With cash rent: $300 to $349
+        AFUME009:    With cash rent: $350 to $399
+        AFUME010:    With cash rent: $400 to $449
+        AFUME011:    With cash rent: $450 to $499
+        AFUME012:    With cash rent: $500 to $549
+        AFUME013:    With cash rent: $550 to $599
+        AFUME014:    With cash rent: $600 to $649
+        AFUME015:    With cash rent: $650 to $699
+        AFUME016:    With cash rent: $700 to $749
+        AFUME017:    With cash rent: $750 to $799
+        AFUME018:    With cash rent: $800 to $899
+        AFUME019:    With cash rent: $900 to $999
+        AFUME020:    With cash rent: $1,000 to $1,249
+        AFUME021:    With cash rent: $1,250 to $1,499
+        AFUME022:    With cash rent: $1,500 to $1,999
+        AFUME023:    With cash rent: $2,000 to $2,499
+        AFUME024:    With cash rent: $2,500 to $2,999
+        AFUME025:    With cash rent: $3,000 to $3,499
+        AFUME026:    With cash rent: $3,500 or more
+        AFUME027:    No cash rent
+ 
+Data Type (M):
+    Margins of error
+ 
+        NAME_M:      Area Name
+ 
+    Table 1:     Educational Attainment for the Population 25 Years and Over
+    Universe:    Population 25 years and over
+    Source code: B15003
+    NHGIS code:  AFFG
+        AFFGM001:    Total
+        AFFGM002:    No schooling completed
+        AFFGM003:    Nursery school
+        AFFGM004:    Kindergarten
+        AFFGM005:    1st grade
+        AFFGM006:    2nd grade
+        AFFGM007:    3rd grade
+        AFFGM008:    4th grade
+        AFFGM009:    5th grade
+        AFFGM010:    6th grade
+        AFFGM011:    7th grade
+        AFFGM012:    8th grade
+        AFFGM013:    9th grade
+        AFFGM014:    10th grade
+        AFFGM015:    11th grade
+        AFFGM016:    12th grade, no diploma
+        AFFGM017:    Regular high school diploma
+        AFFGM018:    GED or alternative credential
+        AFFGM019:    Some college, less than 1 year
+        AFFGM020:    Some college, 1 or more years, no degree
+        AFFGM021:    Associate's degree
+        AFFGM022:    Bachelor's degree
+        AFFGM023:    Master's degree
+        AFFGM024:    Professional school degree
+        AFFGM025:    Doctorate degree
+ 
+    Table 2:     Household Income in the Past 12 Months (in 2016 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19001
+    NHGIS code:  AFJ8
+        AFJ8M001:    Total
+        AFJ8M002:    Less than $10,000
+        AFJ8M003:    $10,000 to $14,999
+        AFJ8M004:    $15,000 to $19,999
+        AFJ8M005:    $20,000 to $24,999
+        AFJ8M006:    $25,000 to $29,999
+        AFJ8M007:    $30,000 to $34,999
+        AFJ8M008:    $35,000 to $39,999
+        AFJ8M009:    $40,000 to $44,999
+        AFJ8M010:    $45,000 to $49,999
+        AFJ8M011:    $50,000 to $59,999
+        AFJ8M012:    $60,000 to $74,999
+        AFJ8M013:    $75,000 to $99,999
+        AFJ8M014:    $100,000 to $124,999
+        AFJ8M015:    $125,000 to $149,999
+        AFJ8M016:    $150,000 to $199,999
+        AFJ8M017:    $200,000 or more
+ 
+    Table 3:     Median Household Income in the Past 12 Months (in 2016 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19013
+    NHGIS code:  AFKI
+        AFKIM001:    Median household income in the past 12 months (in 2016 inflation-adjusted dollars)
+ 
+    Table 4:     Year Structure Built
+    Universe:    Housing units
+    Source code: B25034
+    NHGIS code:  AFTQ
+        AFTQM001:    Total
+        AFTQM002:    Built 2014 or later
+        AFTQM003:    Built 2010 to 2013
+        AFTQM004:    Built 2000 to 2009
+        AFTQM005:    Built 1990 to 1999
+        AFTQM006:    Built 1980 to 1989
+        AFTQM007:    Built 1970 to 1979
+        AFTQM008:    Built 1960 to 1969
+        AFTQM009:    Built 1950 to 1959
+        AFTQM010:    Built 1940 to 1949
+        AFTQM011:    Built 1939 or earlier
+ 
+    Table 5:     Gross Rent
+    Universe:    Renter-occupied housing units
+    Source code: B25063
+    NHGIS code:  AFUM
+        AFUMM001:    Total
+        AFUMM002:    With cash rent
+        AFUMM003:    With cash rent: Less than $100
+        AFUMM004:    With cash rent: $100 to $149
+        AFUMM005:    With cash rent: $150 to $199
+        AFUMM006:    With cash rent: $200 to $249
+        AFUMM007:    With cash rent: $250 to $299
+        AFUMM008:    With cash rent: $300 to $349
+        AFUMM009:    With cash rent: $350 to $399
+        AFUMM010:    With cash rent: $400 to $449
+        AFUMM011:    With cash rent: $450 to $499
+        AFUMM012:    With cash rent: $500 to $549
+        AFUMM013:    With cash rent: $550 to $599
+        AFUMM014:    With cash rent: $600 to $649
+        AFUMM015:    With cash rent: $650 to $699
+        AFUMM016:    With cash rent: $700 to $749
+        AFUMM017:    With cash rent: $750 to $799
+        AFUMM018:    With cash rent: $800 to $899
+        AFUMM019:    With cash rent: $900 to $999
+        AFUMM020:    With cash rent: $1,000 to $1,249
+        AFUMM021:    With cash rent: $1,250 to $1,499
+        AFUMM022:    With cash rent: $1,500 to $1,999
+        AFUMM023:    With cash rent: $2,000 to $2,499
+        AFUMM024:    With cash rent: $2,500 to $2,999
+        AFUMM025:    With cash rent: $3,000 to $3,499
+        AFUMM026:    With cash rent: $3,500 or more
+        AFUMM027:    No cash rent
+ 
+
+2016 Urban Area Codebook   
+      Data Type (E):
+    Estimates
+ 
+        NAME_E:      Area Name
+ 
+    Table 1:     Educational Attainment for the Population 25 Years and Over
+    Universe:    Population 25 years and over
+    Source code: B15003
+    NHGIS code:  AFFG
+        AFFGE001:    Total
+        AFFGE002:    No schooling completed
+        AFFGE003:    Nursery school
+        AFFGE004:    Kindergarten
+        AFFGE005:    1st grade
+        AFFGE006:    2nd grade
+        AFFGE007:    3rd grade
+        AFFGE008:    4th grade
+        AFFGE009:    5th grade
+        AFFGE010:    6th grade
+        AFFGE011:    7th grade
+        AFFGE012:    8th grade
+        AFFGE013:    9th grade
+        AFFGE014:    10th grade
+        AFFGE015:    11th grade
+        AFFGE016:    12th grade, no diploma
+        AFFGE017:    Regular high school diploma
+        AFFGE018:    GED or alternative credential
+        AFFGE019:    Some college, less than 1 year
+        AFFGE020:    Some college, 1 or more years, no degree
+        AFFGE021:    Associate's degree
+        AFFGE022:    Bachelor's degree
+        AFFGE023:    Master's degree
+        AFFGE024:    Professional school degree
+        AFFGE025:    Doctorate degree
+ 
+    Table 2:     Household Income in the Past 12 Months (in 2016 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19001
+    NHGIS code:  AFJ8
+        AFJ8E001:    Total
+        AFJ8E002:    Less than $10,000
+        AFJ8E003:    $10,000 to $14,999
+        AFJ8E004:    $15,000 to $19,999
+        AFJ8E005:    $20,000 to $24,999
+        AFJ8E006:    $25,000 to $29,999
+        AFJ8E007:    $30,000 to $34,999
+        AFJ8E008:    $35,000 to $39,999
+        AFJ8E009:    $40,000 to $44,999
+        AFJ8E010:    $45,000 to $49,999
+        AFJ8E011:    $50,000 to $59,999
+        AFJ8E012:    $60,000 to $74,999
+        AFJ8E013:    $75,000 to $99,999
+        AFJ8E014:    $100,000 to $124,999
+        AFJ8E015:    $125,000 to $149,999
+        AFJ8E016:    $150,000 to $199,999
+        AFJ8E017:    $200,000 or more
+ 
+    Table 3:     Median Household Income in the Past 12 Months (in 2016 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19013
+    NHGIS code:  AFKI
+        AFKIE001:    Median household income in the past 12 months (in 2016 inflation-adjusted dollars)
+ 
+    Table 4:     Year Structure Built
+    Universe:    Housing units
+    Source code: B25034
+    NHGIS code:  AFTQ
+        AFTQE001:    Total
+        AFTQE002:    Built 2014 or later
+        AFTQE003:    Built 2010 to 2013
+        AFTQE004:    Built 2000 to 2009
+        AFTQE005:    Built 1990 to 1999
+        AFTQE006:    Built 1980 to 1989
+        AFTQE007:    Built 1970 to 1979
+        AFTQE008:    Built 1960 to 1969
+        AFTQE009:    Built 1950 to 1959
+        AFTQE010:    Built 1940 to 1949
+        AFTQE011:    Built 1939 or earlier
+ 
+    Table 5:     Gross Rent
+    Universe:    Renter-occupied housing units
+    Source code: B25063
+    NHGIS code:  AFUM
+        AFUME001:    Total
+        AFUME002:    With cash rent
+        AFUME003:    With cash rent: Less than $100
+        AFUME004:    With cash rent: $100 to $149
+        AFUME005:    With cash rent: $150 to $199
+        AFUME006:    With cash rent: $200 to $249
+        AFUME007:    With cash rent: $250 to $299
+        AFUME008:    With cash rent: $300 to $349
+        AFUME009:    With cash rent: $350 to $399
+        AFUME010:    With cash rent: $400 to $449
+        AFUME011:    With cash rent: $450 to $499
+        AFUME012:    With cash rent: $500 to $549
+        AFUME013:    With cash rent: $550 to $599
+        AFUME014:    With cash rent: $600 to $649
+        AFUME015:    With cash rent: $650 to $699
+        AFUME016:    With cash rent: $700 to $749
+        AFUME017:    With cash rent: $750 to $799
+        AFUME018:    With cash rent: $800 to $899
+        AFUME019:    With cash rent: $900 to $999
+        AFUME020:    With cash rent: $1,000 to $1,249
+        AFUME021:    With cash rent: $1,250 to $1,499
+        AFUME022:    With cash rent: $1,500 to $1,999
+        AFUME023:    With cash rent: $2,000 to $2,499
+        AFUME024:    With cash rent: $2,500 to $2,999
+        AFUME025:    With cash rent: $3,000 to $3,499
+        AFUME026:    With cash rent: $3,500 or more
+        AFUME027:    No cash rent
+ 
+Data Type (M):
+    Margins of error
+ 
+        NAME_M:      Area Name
+ 
+    Table 1:     Educational Attainment for the Population 25 Years and Over
+    Universe:    Population 25 years and over
+    Source code: B15003
+    NHGIS code:  AFFG
+        AFFGM001:    Total
+        AFFGM002:    No schooling completed
+        AFFGM003:    Nursery school
+        AFFGM004:    Kindergarten
+        AFFGM005:    1st grade
+        AFFGM006:    2nd grade
+        AFFGM007:    3rd grade
+        AFFGM008:    4th grade
+        AFFGM009:    5th grade
+        AFFGM010:    6th grade
+        AFFGM011:    7th grade
+        AFFGM012:    8th grade
+        AFFGM013:    9th grade
+        AFFGM014:    10th grade
+        AFFGM015:    11th grade
+        AFFGM016:    12th grade, no diploma
+        AFFGM017:    Regular high school diploma
+        AFFGM018:    GED or alternative credential
+        AFFGM019:    Some college, less than 1 year
+        AFFGM020:    Some college, 1 or more years, no degree
+        AFFGM021:    Associate's degree
+        AFFGM022:    Bachelor's degree
+        AFFGM023:    Master's degree
+        AFFGM024:    Professional school degree
+        AFFGM025:    Doctorate degree
+ 
+    Table 2:     Household Income in the Past 12 Months (in 2016 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19001
+    NHGIS code:  AFJ8
+        AFJ8M001:    Total
+        AFJ8M002:    Less than $10,000
+        AFJ8M003:    $10,000 to $14,999
+        AFJ8M004:    $15,000 to $19,999
+        AFJ8M005:    $20,000 to $24,999
+        AFJ8M006:    $25,000 to $29,999
+        AFJ8M007:    $30,000 to $34,999
+        AFJ8M008:    $35,000 to $39,999
+        AFJ8M009:    $40,000 to $44,999
+        AFJ8M010:    $45,000 to $49,999
+        AFJ8M011:    $50,000 to $59,999
+        AFJ8M012:    $60,000 to $74,999
+        AFJ8M013:    $75,000 to $99,999
+        AFJ8M014:    $100,000 to $124,999
+        AFJ8M015:    $125,000 to $149,999
+        AFJ8M016:    $150,000 to $199,999
+        AFJ8M017:    $200,000 or more
+ 
+    Table 3:     Median Household Income in the Past 12 Months (in 2016 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19013
+    NHGIS code:  AFKI
+        AFKIM001:    Median household income in the past 12 months (in 2016 inflation-adjusted dollars)
+ 
+    Table 4:     Year Structure Built
+    Universe:    Housing units
+    Source code: B25034
+    NHGIS code:  AFTQ
+        AFTQM001:    Total
+        AFTQM002:    Built 2014 or later
+        AFTQM003:    Built 2010 to 2013
+        AFTQM004:    Built 2000 to 2009
+        AFTQM005:    Built 1990 to 1999
+        AFTQM006:    Built 1980 to 1989
+        AFTQM007:    Built 1970 to 1979
+        AFTQM008:    Built 1960 to 1969
+        AFTQM009:    Built 1950 to 1959
+        AFTQM010:    Built 1940 to 1949
+        AFTQM011:    Built 1939 or earlier
+ 
+    Table 5:     Gross Rent
+    Universe:    Renter-occupied housing units
+    Source code: B25063
+    NHGIS code:  AFUM
+        AFUMM001:    Total
+        AFUMM002:    With cash rent
+        AFUMM003:    With cash rent: Less than $100
+        AFUMM004:    With cash rent: $100 to $149
+        AFUMM005:    With cash rent: $150 to $199
+        AFUMM006:    With cash rent: $200 to $249
+        AFUMM007:    With cash rent: $250 to $299
+        AFUMM008:    With cash rent: $300 to $349
+        AFUMM009:    With cash rent: $350 to $399
+        AFUMM010:    With cash rent: $400 to $449
+        AFUMM011:    With cash rent: $450 to $499
+        AFUMM012:    With cash rent: $500 to $549
+        AFUMM013:    With cash rent: $550 to $599
+        AFUMM014:    With cash rent: $600 to $649
+        AFUMM015:    With cash rent: $650 to $699
+        AFUMM016:    With cash rent: $700 to $749
+        AFUMM017:    With cash rent: $750 to $799
+        AFUMM018:    With cash rent: $800 to $899
+        AFUMM019:    With cash rent: $900 to $999
+        AFUMM020:    With cash rent: $1,000 to $1,249
+        AFUMM021:    With cash rent: $1,250 to $1,499
+        AFUMM022:    With cash rent: $1,500 to $1,999
+        AFUMM023:    With cash rent: $2,000 to $2,499
+        AFUMM024:    With cash rent: $2,500 to $2,999
+        AFUMM025:    With cash rent: $3,000 to $3,499
+        AFUMM026:    With cash rent: $3,500 or more
+        AFUMM027:    No cash rent
+        
+        
+2017 CBSA codebook
+      Data Type (E):
+    Estimates
+ 
+        NAME_E:      Area Name
+ 
+    Table 1:     Educational Attainment for the Population 25 Years and Over
+    Universe:    Population 25 years and over
+    Source code: B15003
+    NHGIS code:  AHAK
+        AHAKE001:    Total
+        AHAKE002:    No schooling completed
+        AHAKE003:    Nursery school
+        AHAKE004:    Kindergarten
+        AHAKE005:    1st grade
+        AHAKE006:    2nd grade
+        AHAKE007:    3rd grade
+        AHAKE008:    4th grade
+        AHAKE009:    5th grade
+        AHAKE010:    6th grade
+        AHAKE011:    7th grade
+        AHAKE012:    8th grade
+        AHAKE013:    9th grade
+        AHAKE014:    10th grade
+        AHAKE015:    11th grade
+        AHAKE016:    12th grade, no diploma
+        AHAKE017:    Regular high school diploma
+        AHAKE018:    GED or alternative credential
+        AHAKE019:    Some college, less than 1 year
+        AHAKE020:    Some college, 1 or more years, no degree
+        AHAKE021:    Associate's degree
+        AHAKE022:    Bachelor's degree
+        AHAKE023:    Master's degree
+        AHAKE024:    Professional school degree
+        AHAKE025:    Doctorate degree
+ 
+    Table 2:     Household Income in the Past 12 Months (in 2017 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19001
+    NHGIS code:  AHFC
+        AHFCE001:    Total
+        AHFCE002:    Less than $10,000
+        AHFCE003:    $10,000 to $14,999
+        AHFCE004:    $15,000 to $19,999
+        AHFCE005:    $20,000 to $24,999
+        AHFCE006:    $25,000 to $29,999
+        AHFCE007:    $30,000 to $34,999
+        AHFCE008:    $35,000 to $39,999
+        AHFCE009:    $40,000 to $44,999
+        AHFCE010:    $45,000 to $49,999
+        AHFCE011:    $50,000 to $59,999
+        AHFCE012:    $60,000 to $74,999
+        AHFCE013:    $75,000 to $99,999
+        AHFCE014:    $100,000 to $124,999
+        AHFCE015:    $125,000 to $149,999
+        AHFCE016:    $150,000 to $199,999
+        AHFCE017:    $200,000 or more
+ 
+    Table 3:     Median Household Income in the Past 12 Months (in 2017 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19013
+    NHGIS code:  AHFM
+        AHFME001:    Median household income in the past 12 months (in 2017 inflation-adjusted dollars)
+ 
+    Table 4:     Year Structure Built
+    Universe:    Housing units
+    Source code: B25034
+    NHGIS code:  AHOW
+        AHOWE001:    Total
+        AHOWE002:    Built 2014 or later
+        AHOWE003:    Built 2010 to 2013
+        AHOWE004:    Built 2000 to 2009
+        AHOWE005:    Built 1990 to 1999
+        AHOWE006:    Built 1980 to 1989
+        AHOWE007:    Built 1970 to 1979
+        AHOWE008:    Built 1960 to 1969
+        AHOWE009:    Built 1950 to 1959
+        AHOWE010:    Built 1940 to 1949
+        AHOWE011:    Built 1939 or earlier
+ 
+    Table 5:     Gross Rent
+    Universe:    Renter-occupied housing units
+    Source code: B25063
+    NHGIS code:  AHPS
+        AHPSE001:    Total
+        AHPSE002:    With cash rent
+        AHPSE003:    With cash rent: Less than $100
+        AHPSE004:    With cash rent: $100 to $149
+        AHPSE005:    With cash rent: $150 to $199
+        AHPSE006:    With cash rent: $200 to $249
+        AHPSE007:    With cash rent: $250 to $299
+        AHPSE008:    With cash rent: $300 to $349
+        AHPSE009:    With cash rent: $350 to $399
+        AHPSE010:    With cash rent: $400 to $449
+        AHPSE011:    With cash rent: $450 to $499
+        AHPSE012:    With cash rent: $500 to $549
+        AHPSE013:    With cash rent: $550 to $599
+        AHPSE014:    With cash rent: $600 to $649
+        AHPSE015:    With cash rent: $650 to $699
+        AHPSE016:    With cash rent: $700 to $749
+        AHPSE017:    With cash rent: $750 to $799
+        AHPSE018:    With cash rent: $800 to $899
+        AHPSE019:    With cash rent: $900 to $999
+        AHPSE020:    With cash rent: $1,000 to $1,249
+        AHPSE021:    With cash rent: $1,250 to $1,499
+        AHPSE022:    With cash rent: $1,500 to $1,999
+        AHPSE023:    With cash rent: $2,000 to $2,499
+        AHPSE024:    With cash rent: $2,500 to $2,999
+        AHPSE025:    With cash rent: $3,000 to $3,499
+        AHPSE026:    With cash rent: $3,500 or more
+        AHPSE027:    No cash rent
+ 
+Data Type (M):
+    Margins of error
+ 
+        NAME_M:      Area Name
+ 
+    Table 1:     Educational Attainment for the Population 25 Years and Over
+    Universe:    Population 25 years and over
+    Source code: B15003
+    NHGIS code:  AHAK
+        AHAKM001:    Total
+        AHAKM002:    No schooling completed
+        AHAKM003:    Nursery school
+        AHAKM004:    Kindergarten
+        AHAKM005:    1st grade
+        AHAKM006:    2nd grade
+        AHAKM007:    3rd grade
+        AHAKM008:    4th grade
+        AHAKM009:    5th grade
+        AHAKM010:    6th grade
+        AHAKM011:    7th grade
+        AHAKM012:    8th grade
+        AHAKM013:    9th grade
+        AHAKM014:    10th grade
+        AHAKM015:    11th grade
+        AHAKM016:    12th grade, no diploma
+        AHAKM017:    Regular high school diploma
+        AHAKM018:    GED or alternative credential
+        AHAKM019:    Some college, less than 1 year
+        AHAKM020:    Some college, 1 or more years, no degree
+        AHAKM021:    Associate's degree
+        AHAKM022:    Bachelor's degree
+        AHAKM023:    Master's degree
+        AHAKM024:    Professional school degree
+        AHAKM025:    Doctorate degree
+ 
+    Table 2:     Household Income in the Past 12 Months (in 2017 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19001
+    NHGIS code:  AHFC
+        AHFCM001:    Total
+        AHFCM002:    Less than $10,000
+        AHFCM003:    $10,000 to $14,999
+        AHFCM004:    $15,000 to $19,999
+        AHFCM005:    $20,000 to $24,999
+        AHFCM006:    $25,000 to $29,999
+        AHFCM007:    $30,000 to $34,999
+        AHFCM008:    $35,000 to $39,999
+        AHFCM009:    $40,000 to $44,999
+        AHFCM010:    $45,000 to $49,999
+        AHFCM011:    $50,000 to $59,999
+        AHFCM012:    $60,000 to $74,999
+        AHFCM013:    $75,000 to $99,999
+        AHFCM014:    $100,000 to $124,999
+        AHFCM015:    $125,000 to $149,999
+        AHFCM016:    $150,000 to $199,999
+        AHFCM017:    $200,000 or more
+ 
+    Table 3:     Median Household Income in the Past 12 Months (in 2017 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19013
+    NHGIS code:  AHFM
+        AHFMM001:    Median household income in the past 12 months (in 2017 inflation-adjusted dollars)
+ 
+    Table 4:     Year Structure Built
+    Universe:    Housing units
+    Source code: B25034
+    NHGIS code:  AHOW
+        AHOWM001:    Total
+        AHOWM002:    Built 2014 or later
+        AHOWM003:    Built 2010 to 2013
+        AHOWM004:    Built 2000 to 2009
+        AHOWM005:    Built 1990 to 1999
+        AHOWM006:    Built 1980 to 1989
+        AHOWM007:    Built 1970 to 1979
+        AHOWM008:    Built 1960 to 1969
+        AHOWM009:    Built 1950 to 1959
+        AHOWM010:    Built 1940 to 1949
+        AHOWM011:    Built 1939 or earlier
+ 
+    Table 5:     Gross Rent
+    Universe:    Renter-occupied housing units
+    Source code: B25063
+    NHGIS code:  AHPS
+        AHPSM001:    Total
+        AHPSM002:    With cash rent
+        AHPSM003:    With cash rent: Less than $100
+        AHPSM004:    With cash rent: $100 to $149
+        AHPSM005:    With cash rent: $150 to $199
+        AHPSM006:    With cash rent: $200 to $249
+        AHPSM007:    With cash rent: $250 to $299
+        AHPSM008:    With cash rent: $300 to $349
+        AHPSM009:    With cash rent: $350 to $399
+        AHPSM010:    With cash rent: $400 to $449
+        AHPSM011:    With cash rent: $450 to $499
+        AHPSM012:    With cash rent: $500 to $549
+        AHPSM013:    With cash rent: $550 to $599
+        AHPSM014:    With cash rent: $600 to $649
+        AHPSM015:    With cash rent: $650 to $699
+        AHPSM016:    With cash rent: $700 to $749
+        AHPSM017:    With cash rent: $750 to $799
+        AHPSM018:    With cash rent: $800 to $899
+        AHPSM019:    With cash rent: $900 to $999
+        AHPSM020:    With cash rent: $1,000 to $1,249
+        AHPSM021:    With cash rent: $1,250 to $1,499
+        AHPSM022:    With cash rent: $1,500 to $1,999
+        AHPSM023:    With cash rent: $2,000 to $2,499
+        AHPSM024:    With cash rent: $2,500 to $2,999
+        AHPSM025:    With cash rent: $3,000 to $3,499
+        AHPSM026:    With cash rent: $3,500 or more
+        AHPSM027:    No cash rent
+        
+2017 Place Codebook
+    
+    Data Type (E):
+    Estimates
+ 
+        NAME_E:      Area Name
+ 
+    Table 1:     Educational Attainment for the Population 25 Years and Over
+    Universe:    Population 25 years and over
+    Source code: B15003
+    NHGIS code:  AHAK
+        AHAKE001:    Total
+        AHAKE002:    No schooling completed
+        AHAKE003:    Nursery school
+        AHAKE004:    Kindergarten
+        AHAKE005:    1st grade
+        AHAKE006:    2nd grade
+        AHAKE007:    3rd grade
+        AHAKE008:    4th grade
+        AHAKE009:    5th grade
+        AHAKE010:    6th grade
+        AHAKE011:    7th grade
+        AHAKE012:    8th grade
+        AHAKE013:    9th grade
+        AHAKE014:    10th grade
+        AHAKE015:    11th grade
+        AHAKE016:    12th grade, no diploma
+        AHAKE017:    Regular high school diploma
+        AHAKE018:    GED or alternative credential
+        AHAKE019:    Some college, less than 1 year
+        AHAKE020:    Some college, 1 or more years, no degree
+        AHAKE021:    Associate's degree
+        AHAKE022:    Bachelor's degree
+        AHAKE023:    Master's degree
+        AHAKE024:    Professional school degree
+        AHAKE025:    Doctorate degree
+ 
+    Table 2:     Household Income in the Past 12 Months (in 2017 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19001
+    NHGIS code:  AHFC
+        AHFCE001:    Total
+        AHFCE002:    Less than $10,000
+        AHFCE003:    $10,000 to $14,999
+        AHFCE004:    $15,000 to $19,999
+        AHFCE005:    $20,000 to $24,999
+        AHFCE006:    $25,000 to $29,999
+        AHFCE007:    $30,000 to $34,999
+        AHFCE008:    $35,000 to $39,999
+        AHFCE009:    $40,000 to $44,999
+        AHFCE010:    $45,000 to $49,999
+        AHFCE011:    $50,000 to $59,999
+        AHFCE012:    $60,000 to $74,999
+        AHFCE013:    $75,000 to $99,999
+        AHFCE014:    $100,000 to $124,999
+        AHFCE015:    $125,000 to $149,999
+        AHFCE016:    $150,000 to $199,999
+        AHFCE017:    $200,000 or more
+ 
+    Table 3:     Median Household Income in the Past 12 Months (in 2017 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19013
+    NHGIS code:  AHFM
+        AHFME001:    Median household income in the past 12 months (in 2017 inflation-adjusted dollars)
+ 
+    Table 4:     Year Structure Built
+    Universe:    Housing units
+    Source code: B25034
+    NHGIS code:  AHOW
+        AHOWE001:    Total
+        AHOWE002:    Built 2014 or later
+        AHOWE003:    Built 2010 to 2013
+        AHOWE004:    Built 2000 to 2009
+        AHOWE005:    Built 1990 to 1999
+        AHOWE006:    Built 1980 to 1989
+        AHOWE007:    Built 1970 to 1979
+        AHOWE008:    Built 1960 to 1969
+        AHOWE009:    Built 1950 to 1959
+        AHOWE010:    Built 1940 to 1949
+        AHOWE011:    Built 1939 or earlier
+ 
+    Table 5:     Gross Rent
+    Universe:    Renter-occupied housing units
+    Source code: B25063
+    NHGIS code:  AHPS
+        AHPSE001:    Total
+        AHPSE002:    With cash rent
+        AHPSE003:    With cash rent: Less than $100
+        AHPSE004:    With cash rent: $100 to $149
+        AHPSE005:    With cash rent: $150 to $199
+        AHPSE006:    With cash rent: $200 to $249
+        AHPSE007:    With cash rent: $250 to $299
+        AHPSE008:    With cash rent: $300 to $349
+        AHPSE009:    With cash rent: $350 to $399
+        AHPSE010:    With cash rent: $400 to $449
+        AHPSE011:    With cash rent: $450 to $499
+        AHPSE012:    With cash rent: $500 to $549
+        AHPSE013:    With cash rent: $550 to $599
+        AHPSE014:    With cash rent: $600 to $649
+        AHPSE015:    With cash rent: $650 to $699
+        AHPSE016:    With cash rent: $700 to $749
+        AHPSE017:    With cash rent: $750 to $799
+        AHPSE018:    With cash rent: $800 to $899
+        AHPSE019:    With cash rent: $900 to $999
+        AHPSE020:    With cash rent: $1,000 to $1,249
+        AHPSE021:    With cash rent: $1,250 to $1,499
+        AHPSE022:    With cash rent: $1,500 to $1,999
+        AHPSE023:    With cash rent: $2,000 to $2,499
+        AHPSE024:    With cash rent: $2,500 to $2,999
+        AHPSE025:    With cash rent: $3,000 to $3,499
+        AHPSE026:    With cash rent: $3,500 or more
+        AHPSE027:    No cash rent
+ 
+Data Type (M):
+    Margins of error
+ 
+        NAME_M:      Area Name
+ 
+    Table 1:     Educational Attainment for the Population 25 Years and Over
+    Universe:    Population 25 years and over
+    Source code: B15003
+    NHGIS code:  AHAK
+        AHAKM001:    Total
+        AHAKM002:    No schooling completed
+        AHAKM003:    Nursery school
+        AHAKM004:    Kindergarten
+        AHAKM005:    1st grade
+        AHAKM006:    2nd grade
+        AHAKM007:    3rd grade
+        AHAKM008:    4th grade
+        AHAKM009:    5th grade
+        AHAKM010:    6th grade
+        AHAKM011:    7th grade
+        AHAKM012:    8th grade
+        AHAKM013:    9th grade
+        AHAKM014:    10th grade
+        AHAKM015:    11th grade
+        AHAKM016:    12th grade, no diploma
+        AHAKM017:    Regular high school diploma
+        AHAKM018:    GED or alternative credential
+        AHAKM019:    Some college, less than 1 year
+        AHAKM020:    Some college, 1 or more years, no degree
+        AHAKM021:    Associate's degree
+        AHAKM022:    Bachelor's degree
+        AHAKM023:    Master's degree
+        AHAKM024:    Professional school degree
+        AHAKM025:    Doctorate degree
+ 
+    Table 2:     Household Income in the Past 12 Months (in 2017 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19001
+    NHGIS code:  AHFC
+        AHFCM001:    Total
+        AHFCM002:    Less than $10,000
+        AHFCM003:    $10,000 to $14,999
+        AHFCM004:    $15,000 to $19,999
+        AHFCM005:    $20,000 to $24,999
+        AHFCM006:    $25,000 to $29,999
+        AHFCM007:    $30,000 to $34,999
+        AHFCM008:    $35,000 to $39,999
+        AHFCM009:    $40,000 to $44,999
+        AHFCM010:    $45,000 to $49,999
+        AHFCM011:    $50,000 to $59,999
+        AHFCM012:    $60,000 to $74,999
+        AHFCM013:    $75,000 to $99,999
+        AHFCM014:    $100,000 to $124,999
+        AHFCM015:    $125,000 to $149,999
+        AHFCM016:    $150,000 to $199,999
+        AHFCM017:    $200,000 or more
+ 
+    Table 3:     Median Household Income in the Past 12 Months (in 2017 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19013
+    NHGIS code:  AHFM
+        AHFMM001:    Median household income in the past 12 months (in 2017 inflation-adjusted dollars)
+ 
+    Table 4:     Year Structure Built
+    Universe:    Housing units
+    Source code: B25034
+    NHGIS code:  AHOW
+        AHOWM001:    Total
+        AHOWM002:    Built 2014 or later
+        AHOWM003:    Built 2010 to 2013
+        AHOWM004:    Built 2000 to 2009
+        AHOWM005:    Built 1990 to 1999
+        AHOWM006:    Built 1980 to 1989
+        AHOWM007:    Built 1970 to 1979
+        AHOWM008:    Built 1960 to 1969
+        AHOWM009:    Built 1950 to 1959
+        AHOWM010:    Built 1940 to 1949
+        AHOWM011:    Built 1939 or earlier
+ 
+    Table 5:     Gross Rent
+    Universe:    Renter-occupied housing units
+    Source code: B25063
+    NHGIS code:  AHPS
+        AHPSM001:    Total
+        AHPSM002:    With cash rent
+        AHPSM003:    With cash rent: Less than $100
+        AHPSM004:    With cash rent: $100 to $149
+        AHPSM005:    With cash rent: $150 to $199
+        AHPSM006:    With cash rent: $200 to $249
+        AHPSM007:    With cash rent: $250 to $299
+        AHPSM008:    With cash rent: $300 to $349
+        AHPSM009:    With cash rent: $350 to $399
+        AHPSM010:    With cash rent: $400 to $449
+        AHPSM011:    With cash rent: $450 to $499
+        AHPSM012:    With cash rent: $500 to $549
+        AHPSM013:    With cash rent: $550 to $599
+        AHPSM014:    With cash rent: $600 to $649
+        AHPSM015:    With cash rent: $650 to $699
+        AHPSM016:    With cash rent: $700 to $749
+        AHPSM017:    With cash rent: $750 to $799
+        AHPSM018:    With cash rent: $800 to $899
+        AHPSM019:    With cash rent: $900 to $999
+        AHPSM020:    With cash rent: $1,000 to $1,249
+        AHPSM021:    With cash rent: $1,250 to $1,499
+        AHPSM022:    With cash rent: $1,500 to $1,999
+        AHPSM023:    With cash rent: $2,000 to $2,499
+        AHPSM024:    With cash rent: $2,500 to $2,999
+        AHPSM025:    With cash rent: $3,000 to $3,499
+        AHPSM026:    With cash rent: $3,500 or more
+        AHPSM027:    No cash rent
+ 
+2017 State Codebook
+    Data Type (E):
+    Estimates
+ 
+        NAME_E:      Area Name
+ 
+    Table 1:     Educational Attainment for the Population 25 Years and Over
+    Universe:    Population 25 years and over
+    Source code: B15003
+    NHGIS code:  AHAK
+        AHAKE001:    Total
+        AHAKE002:    No schooling completed
+        AHAKE003:    Nursery school
+        AHAKE004:    Kindergarten
+        AHAKE005:    1st grade
+        AHAKE006:    2nd grade
+        AHAKE007:    3rd grade
+        AHAKE008:    4th grade
+        AHAKE009:    5th grade
+        AHAKE010:    6th grade
+        AHAKE011:    7th grade
+        AHAKE012:    8th grade
+        AHAKE013:    9th grade
+        AHAKE014:    10th grade
+        AHAKE015:    11th grade
+        AHAKE016:    12th grade, no diploma
+        AHAKE017:    Regular high school diploma
+        AHAKE018:    GED or alternative credential
+        AHAKE019:    Some college, less than 1 year
+        AHAKE020:    Some college, 1 or more years, no degree
+        AHAKE021:    Associate's degree
+        AHAKE022:    Bachelor's degree
+        AHAKE023:    Master's degree
+        AHAKE024:    Professional school degree
+        AHAKE025:    Doctorate degree
+ 
+    Table 2:     Household Income in the Past 12 Months (in 2017 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19001
+    NHGIS code:  AHFC
+        AHFCE001:    Total
+        AHFCE002:    Less than $10,000
+        AHFCE003:    $10,000 to $14,999
+        AHFCE004:    $15,000 to $19,999
+        AHFCE005:    $20,000 to $24,999
+        AHFCE006:    $25,000 to $29,999
+        AHFCE007:    $30,000 to $34,999
+        AHFCE008:    $35,000 to $39,999
+        AHFCE009:    $40,000 to $44,999
+        AHFCE010:    $45,000 to $49,999
+        AHFCE011:    $50,000 to $59,999
+        AHFCE012:    $60,000 to $74,999
+        AHFCE013:    $75,000 to $99,999
+        AHFCE014:    $100,000 to $124,999
+        AHFCE015:    $125,000 to $149,999
+        AHFCE016:    $150,000 to $199,999
+        AHFCE017:    $200,000 or more
+ 
+    Table 3:     Median Household Income in the Past 12 Months (in 2017 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19013
+    NHGIS code:  AHFM
+        AHFME001:    Median household income in the past 12 months (in 2017 inflation-adjusted dollars)
+ 
+    Table 4:     Year Structure Built
+    Universe:    Housing units
+    Source code: B25034
+    NHGIS code:  AHOW
+        AHOWE001:    Total
+        AHOWE002:    Built 2014 or later
+        AHOWE003:    Built 2010 to 2013
+        AHOWE004:    Built 2000 to 2009
+        AHOWE005:    Built 1990 to 1999
+        AHOWE006:    Built 1980 to 1989
+        AHOWE007:    Built 1970 to 1979
+        AHOWE008:    Built 1960 to 1969
+        AHOWE009:    Built 1950 to 1959
+        AHOWE010:    Built 1940 to 1949
+        AHOWE011:    Built 1939 or earlier
+ 
+    Table 5:     Gross Rent
+    Universe:    Renter-occupied housing units
+    Source code: B25063
+    NHGIS code:  AHPS
+        AHPSE001:    Total
+        AHPSE002:    With cash rent
+        AHPSE003:    With cash rent: Less than $100
+        AHPSE004:    With cash rent: $100 to $149
+        AHPSE005:    With cash rent: $150 to $199
+        AHPSE006:    With cash rent: $200 to $249
+        AHPSE007:    With cash rent: $250 to $299
+        AHPSE008:    With cash rent: $300 to $349
+        AHPSE009:    With cash rent: $350 to $399
+        AHPSE010:    With cash rent: $400 to $449
+        AHPSE011:    With cash rent: $450 to $499
+        AHPSE012:    With cash rent: $500 to $549
+        AHPSE013:    With cash rent: $550 to $599
+        AHPSE014:    With cash rent: $600 to $649
+        AHPSE015:    With cash rent: $650 to $699
+        AHPSE016:    With cash rent: $700 to $749
+        AHPSE017:    With cash rent: $750 to $799
+        AHPSE018:    With cash rent: $800 to $899
+        AHPSE019:    With cash rent: $900 to $999
+        AHPSE020:    With cash rent: $1,000 to $1,249
+        AHPSE021:    With cash rent: $1,250 to $1,499
+        AHPSE022:    With cash rent: $1,500 to $1,999
+        AHPSE023:    With cash rent: $2,000 to $2,499
+        AHPSE024:    With cash rent: $2,500 to $2,999
+        AHPSE025:    With cash rent: $3,000 to $3,499
+        AHPSE026:    With cash rent: $3,500 or more
+        AHPSE027:    No cash rent
+ 
+Data Type (M):
+    Margins of error
+ 
+        NAME_M:      Area Name
+ 
+    Table 1:     Educational Attainment for the Population 25 Years and Over
+    Universe:    Population 25 years and over
+    Source code: B15003
+    NHGIS code:  AHAK
+        AHAKM001:    Total
+        AHAKM002:    No schooling completed
+        AHAKM003:    Nursery school
+        AHAKM004:    Kindergarten
+        AHAKM005:    1st grade
+        AHAKM006:    2nd grade
+        AHAKM007:    3rd grade
+        AHAKM008:    4th grade
+        AHAKM009:    5th grade
+        AHAKM010:    6th grade
+        AHAKM011:    7th grade
+        AHAKM012:    8th grade
+        AHAKM013:    9th grade
+        AHAKM014:    10th grade
+        AHAKM015:    11th grade
+        AHAKM016:    12th grade, no diploma
+        AHAKM017:    Regular high school diploma
+        AHAKM018:    GED or alternative credential
+        AHAKM019:    Some college, less than 1 year
+        AHAKM020:    Some college, 1 or more years, no degree
+        AHAKM021:    Associate's degree
+        AHAKM022:    Bachelor's degree
+        AHAKM023:    Master's degree
+        AHAKM024:    Professional school degree
+        AHAKM025:    Doctorate degree
+ 
+    Table 2:     Household Income in the Past 12 Months (in 2017 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19001
+    NHGIS code:  AHFC
+        AHFCM001:    Total
+        AHFCM002:    Less than $10,000
+        AHFCM003:    $10,000 to $14,999
+        AHFCM004:    $15,000 to $19,999
+        AHFCM005:    $20,000 to $24,999
+        AHFCM006:    $25,000 to $29,999
+        AHFCM007:    $30,000 to $34,999
+        AHFCM008:    $35,000 to $39,999
+        AHFCM009:    $40,000 to $44,999
+        AHFCM010:    $45,000 to $49,999
+        AHFCM011:    $50,000 to $59,999
+        AHFCM012:    $60,000 to $74,999
+        AHFCM013:    $75,000 to $99,999
+        AHFCM014:    $100,000 to $124,999
+        AHFCM015:    $125,000 to $149,999
+        AHFCM016:    $150,000 to $199,999
+        AHFCM017:    $200,000 or more
+ 
+    Table 3:     Median Household Income in the Past 12 Months (in 2017 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19013
+    NHGIS code:  AHFM
+        AHFMM001:    Median household income in the past 12 months (in 2017 inflation-adjusted dollars)
+ 
+    Table 4:     Year Structure Built
+    Universe:    Housing units
+    Source code: B25034
+    NHGIS code:  AHOW
+        AHOWM001:    Total
+        AHOWM002:    Built 2014 or later
+        AHOWM003:    Built 2010 to 2013
+        AHOWM004:    Built 2000 to 2009
+        AHOWM005:    Built 1990 to 1999
+        AHOWM006:    Built 1980 to 1989
+        AHOWM007:    Built 1970 to 1979
+        AHOWM008:    Built 1960 to 1969
+        AHOWM009:    Built 1950 to 1959
+        AHOWM010:    Built 1940 to 1949
+        AHOWM011:    Built 1939 or earlier
+ 
+    Table 5:     Gross Rent
+    Universe:    Renter-occupied housing units
+    Source code: B25063
+    NHGIS code:  AHPS
+        AHPSM001:    Total
+        AHPSM002:    With cash rent
+        AHPSM003:    With cash rent: Less than $100
+        AHPSM004:    With cash rent: $100 to $149
+        AHPSM005:    With cash rent: $150 to $199
+        AHPSM006:    With cash rent: $200 to $249
+        AHPSM007:    With cash rent: $250 to $299
+        AHPSM008:    With cash rent: $300 to $349
+        AHPSM009:    With cash rent: $350 to $399
+        AHPSM010:    With cash rent: $400 to $449
+        AHPSM011:    With cash rent: $450 to $499
+        AHPSM012:    With cash rent: $500 to $549
+        AHPSM013:    With cash rent: $550 to $599
+        AHPSM014:    With cash rent: $600 to $649
+        AHPSM015:    With cash rent: $650 to $699
+        AHPSM016:    With cash rent: $700 to $749
+        AHPSM017:    With cash rent: $750 to $799
+        AHPSM018:    With cash rent: $800 to $899
+        AHPSM019:    With cash rent: $900 to $999
+        AHPSM020:    With cash rent: $1,000 to $1,249
+        AHPSM021:    With cash rent: $1,250 to $1,499
+        AHPSM022:    With cash rent: $1,500 to $1,999
+        AHPSM023:    With cash rent: $2,000 to $2,499
+        AHPSM024:    With cash rent: $2,500 to $2,999
+        AHPSM025:    With cash rent: $3,000 to $3,499
+        AHPSM026:    With cash rent: $3,500 or more
+        AHPSM027:    No cash rent
+        
+2017 Urban Area Codebook
+
+    Data Type (E):
+    Estimates
+ 
+        NAME_E:      Area Name
+ 
+    Table 1:     Educational Attainment for the Population 25 Years and Over
+    Universe:    Population 25 years and over
+    Source code: B15003
+    NHGIS code:  AHAK
+        AHAKE001:    Total
+        AHAKE002:    No schooling completed
+        AHAKE003:    Nursery school
+        AHAKE004:    Kindergarten
+        AHAKE005:    1st grade
+        AHAKE006:    2nd grade
+        AHAKE007:    3rd grade
+        AHAKE008:    4th grade
+        AHAKE009:    5th grade
+        AHAKE010:    6th grade
+        AHAKE011:    7th grade
+        AHAKE012:    8th grade
+        AHAKE013:    9th grade
+        AHAKE014:    10th grade
+        AHAKE015:    11th grade
+        AHAKE016:    12th grade, no diploma
+        AHAKE017:    Regular high school diploma
+        AHAKE018:    GED or alternative credential
+        AHAKE019:    Some college, less than 1 year
+        AHAKE020:    Some college, 1 or more years, no degree
+        AHAKE021:    Associate's degree
+        AHAKE022:    Bachelor's degree
+        AHAKE023:    Master's degree
+        AHAKE024:    Professional school degree
+        AHAKE025:    Doctorate degree
+ 
+    Table 2:     Household Income in the Past 12 Months (in 2017 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19001
+    NHGIS code:  AHFC
+        AHFCE001:    Total
+        AHFCE002:    Less than $10,000
+        AHFCE003:    $10,000 to $14,999
+        AHFCE004:    $15,000 to $19,999
+        AHFCE005:    $20,000 to $24,999
+        AHFCE006:    $25,000 to $29,999
+        AHFCE007:    $30,000 to $34,999
+        AHFCE008:    $35,000 to $39,999
+        AHFCE009:    $40,000 to $44,999
+        AHFCE010:    $45,000 to $49,999
+        AHFCE011:    $50,000 to $59,999
+        AHFCE012:    $60,000 to $74,999
+        AHFCE013:    $75,000 to $99,999
+        AHFCE014:    $100,000 to $124,999
+        AHFCE015:    $125,000 to $149,999
+        AHFCE016:    $150,000 to $199,999
+        AHFCE017:    $200,000 or more
+ 
+    Table 3:     Median Household Income in the Past 12 Months (in 2017 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19013
+    NHGIS code:  AHFM
+        AHFME001:    Median household income in the past 12 months (in 2017 inflation-adjusted dollars)
+ 
+    Table 4:     Year Structure Built
+    Universe:    Housing units
+    Source code: B25034
+    NHGIS code:  AHOW
+        AHOWE001:    Total
+        AHOWE002:    Built 2014 or later
+        AHOWE003:    Built 2010 to 2013
+        AHOWE004:    Built 2000 to 2009
+        AHOWE005:    Built 1990 to 1999
+        AHOWE006:    Built 1980 to 1989
+        AHOWE007:    Built 1970 to 1979
+        AHOWE008:    Built 1960 to 1969
+        AHOWE009:    Built 1950 to 1959
+        AHOWE010:    Built 1940 to 1949
+        AHOWE011:    Built 1939 or earlier
+ 
+    Table 5:     Gross Rent
+    Universe:    Renter-occupied housing units
+    Source code: B25063
+    NHGIS code:  AHPS
+        AHPSE001:    Total
+        AHPSE002:    With cash rent
+        AHPSE003:    With cash rent: Less than $100
+        AHPSE004:    With cash rent: $100 to $149
+        AHPSE005:    With cash rent: $150 to $199
+        AHPSE006:    With cash rent: $200 to $249
+        AHPSE007:    With cash rent: $250 to $299
+        AHPSE008:    With cash rent: $300 to $349
+        AHPSE009:    With cash rent: $350 to $399
+        AHPSE010:    With cash rent: $400 to $449
+        AHPSE011:    With cash rent: $450 to $499
+        AHPSE012:    With cash rent: $500 to $549
+        AHPSE013:    With cash rent: $550 to $599
+        AHPSE014:    With cash rent: $600 to $649
+        AHPSE015:    With cash rent: $650 to $699
+        AHPSE016:    With cash rent: $700 to $749
+        AHPSE017:    With cash rent: $750 to $799
+        AHPSE018:    With cash rent: $800 to $899
+        AHPSE019:    With cash rent: $900 to $999
+        AHPSE020:    With cash rent: $1,000 to $1,249
+        AHPSE021:    With cash rent: $1,250 to $1,499
+        AHPSE022:    With cash rent: $1,500 to $1,999
+        AHPSE023:    With cash rent: $2,000 to $2,499
+        AHPSE024:    With cash rent: $2,500 to $2,999
+        AHPSE025:    With cash rent: $3,000 to $3,499
+        AHPSE026:    With cash rent: $3,500 or more
+        AHPSE027:    No cash rent
+ 
+Data Type (M):
+    Margins of error
+ 
+        NAME_M:      Area Name
+ 
+    Table 1:     Educational Attainment for the Population 25 Years and Over
+    Universe:    Population 25 years and over
+    Source code: B15003
+    NHGIS code:  AHAK
+        AHAKM001:    Total
+        AHAKM002:    No schooling completed
+        AHAKM003:    Nursery school
+        AHAKM004:    Kindergarten
+        AHAKM005:    1st grade
+        AHAKM006:    2nd grade
+        AHAKM007:    3rd grade
+        AHAKM008:    4th grade
+        AHAKM009:    5th grade
+        AHAKM010:    6th grade
+        AHAKM011:    7th grade
+        AHAKM012:    8th grade
+        AHAKM013:    9th grade
+        AHAKM014:    10th grade
+        AHAKM015:    11th grade
+        AHAKM016:    12th grade, no diploma
+        AHAKM017:    Regular high school diploma
+        AHAKM018:    GED or alternative credential
+        AHAKM019:    Some college, less than 1 year
+        AHAKM020:    Some college, 1 or more years, no degree
+        AHAKM021:    Associate's degree
+        AHAKM022:    Bachelor's degree
+        AHAKM023:    Master's degree
+        AHAKM024:    Professional school degree
+        AHAKM025:    Doctorate degree
+ 
+    Table 2:     Household Income in the Past 12 Months (in 2017 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19001
+    NHGIS code:  AHFC
+        AHFCM001:    Total
+        AHFCM002:    Less than $10,000
+        AHFCM003:    $10,000 to $14,999
+        AHFCM004:    $15,000 to $19,999
+        AHFCM005:    $20,000 to $24,999
+        AHFCM006:    $25,000 to $29,999
+        AHFCM007:    $30,000 to $34,999
+        AHFCM008:    $35,000 to $39,999
+        AHFCM009:    $40,000 to $44,999
+        AHFCM010:    $45,000 to $49,999
+        AHFCM011:    $50,000 to $59,999
+        AHFCM012:    $60,000 to $74,999
+        AHFCM013:    $75,000 to $99,999
+        AHFCM014:    $100,000 to $124,999
+        AHFCM015:    $125,000 to $149,999
+        AHFCM016:    $150,000 to $199,999
+        AHFCM017:    $200,000 or more
+ 
+    Table 3:     Median Household Income in the Past 12 Months (in 2017 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19013
+    NHGIS code:  AHFM
+        AHFMM001:    Median household income in the past 12 months (in 2017 inflation-adjusted dollars)
+ 
+    Table 4:     Year Structure Built
+    Universe:    Housing units
+    Source code: B25034
+    NHGIS code:  AHOW
+        AHOWM001:    Total
+        AHOWM002:    Built 2014 or later
+        AHOWM003:    Built 2010 to 2013
+        AHOWM004:    Built 2000 to 2009
+        AHOWM005:    Built 1990 to 1999
+        AHOWM006:    Built 1980 to 1989
+        AHOWM007:    Built 1970 to 1979
+        AHOWM008:    Built 1960 to 1969
+        AHOWM009:    Built 1950 to 1959
+        AHOWM010:    Built 1940 to 1949
+        AHOWM011:    Built 1939 or earlier
+ 
+    Table 5:     Gross Rent
+    Universe:    Renter-occupied housing units
+    Source code: B25063
+    NHGIS code:  AHPS
+        AHPSM001:    Total
+        AHPSM002:    With cash rent
+        AHPSM003:    With cash rent: Less than $100
+        AHPSM004:    With cash rent: $100 to $149
+        AHPSM005:    With cash rent: $150 to $199
+        AHPSM006:    With cash rent: $200 to $249
+        AHPSM007:    With cash rent: $250 to $299
+        AHPSM008:    With cash rent: $300 to $349
+        AHPSM009:    With cash rent: $350 to $399
+        AHPSM010:    With cash rent: $400 to $449
+        AHPSM011:    With cash rent: $450 to $499
+        AHPSM012:    With cash rent: $500 to $549
+        AHPSM013:    With cash rent: $550 to $599
+        AHPSM014:    With cash rent: $600 to $649
+        AHPSM015:    With cash rent: $650 to $699
+        AHPSM016:    With cash rent: $700 to $749
+        AHPSM017:    With cash rent: $750 to $799
+        AHPSM018:    With cash rent: $800 to $899
+        AHPSM019:    With cash rent: $900 to $999
+        AHPSM020:    With cash rent: $1,000 to $1,249
+        AHPSM021:    With cash rent: $1,250 to $1,499
+        AHPSM022:    With cash rent: $1,500 to $1,999
+        AHPSM023:    With cash rent: $2,000 to $2,499
+        AHPSM024:    With cash rent: $2,500 to $2,999
+        AHPSM025:    With cash rent: $3,000 to $3,499
+        AHPSM026:    With cash rent: $3,500 or more
+        AHPSM027:    No cash rent
+        
+2018 CBSA codebook
+
+    Data Type (E):
+    Estimates
+ 
+        NAME_E:      Area Name
+ 
+    Table 1:     Educational Attainment for the Population 25 Years and Over
+    Universe:    Population 25 years and over
+    Source code: B15003
+    NHGIS code:  AI71
+        AI71E001:    Total
+        AI71E002:    No schooling completed
+        AI71E003:    Nursery school
+        AI71E004:    Kindergarten
+        AI71E005:    1st grade
+        AI71E006:    2nd grade
+        AI71E007:    3rd grade
+        AI71E008:    4th grade
+        AI71E009:    5th grade
+        AI71E010:    6th grade
+        AI71E011:    7th grade
+        AI71E012:    8th grade
+        AI71E013:    9th grade
+        AI71E014:    10th grade
+        AI71E015:    11th grade
+        AI71E016:    12th grade, no diploma
+        AI71E017:    Regular high school diploma
+        AI71E018:    GED or alternative credential
+        AI71E019:    Some college, less than 1 year
+        AI71E020:    Some college, 1 or more years, no degree
+        AI71E021:    Associate's degree
+        AI71E022:    Bachelor's degree
+        AI71E023:    Master's degree
+        AI71E024:    Professional school degree
+        AI71E025:    Doctorate degree
+ 
+    Table 2:     Household Income in the Past 12 Months (in 2018 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19001
+    NHGIS code:  AJCT
+        AJCTE001:    Total
+        AJCTE002:    Less than $10,000
+        AJCTE003:    $10,000 to $14,999
+        AJCTE004:    $15,000 to $19,999
+        AJCTE005:    $20,000 to $24,999
+        AJCTE006:    $25,000 to $29,999
+        AJCTE007:    $30,000 to $34,999
+        AJCTE008:    $35,000 to $39,999
+        AJCTE009:    $40,000 to $44,999
+        AJCTE010:    $45,000 to $49,999
+        AJCTE011:    $50,000 to $59,999
+        AJCTE012:    $60,000 to $74,999
+        AJCTE013:    $75,000 to $99,999
+        AJCTE014:    $100,000 to $124,999
+        AJCTE015:    $125,000 to $149,999
+        AJCTE016:    $150,000 to $199,999
+        AJCTE017:    $200,000 or more
+ 
+    Table 3:     Median Household Income in the Past 12 Months (in 2018 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19013
+    NHGIS code:  AJC3
+        AJC3E001:    Median household income in the past 12 months (in 2018 inflation-adjusted dollars)
+ 
+    Table 4:     Year Structure Built
+    Universe:    Housing units
+    Source code: B25034
+    NHGIS code:  AJMH
+        AJMHE001:    Total
+        AJMHE002:    Built 2014 or later
+        AJMHE003:    Built 2010 to 2013
+        AJMHE004:    Built 2000 to 2009
+        AJMHE005:    Built 1990 to 1999
+        AJMHE006:    Built 1980 to 1989
+        AJMHE007:    Built 1970 to 1979
+        AJMHE008:    Built 1960 to 1969
+        AJMHE009:    Built 1950 to 1959
+        AJMHE010:    Built 1940 to 1949
+        AJMHE011:    Built 1939 or earlier
+ 
+    Table 5:     Gross Rent
+    Universe:    Renter-occupied housing units
+    Source code: B25063
+    NHGIS code:  AJND
+        AJNDE001:    Total
+        AJNDE002:    With cash rent
+        AJNDE003:    With cash rent: Less than $100
+        AJNDE004:    With cash rent: $100 to $149
+        AJNDE005:    With cash rent: $150 to $199
+        AJNDE006:    With cash rent: $200 to $249
+        AJNDE007:    With cash rent: $250 to $299
+        AJNDE008:    With cash rent: $300 to $349
+        AJNDE009:    With cash rent: $350 to $399
+        AJNDE010:    With cash rent: $400 to $449
+        AJNDE011:    With cash rent: $450 to $499
+        AJNDE012:    With cash rent: $500 to $549
+        AJNDE013:    With cash rent: $550 to $599
+        AJNDE014:    With cash rent: $600 to $649
+        AJNDE015:    With cash rent: $650 to $699
+        AJNDE016:    With cash rent: $700 to $749
+        AJNDE017:    With cash rent: $750 to $799
+        AJNDE018:    With cash rent: $800 to $899
+        AJNDE019:    With cash rent: $900 to $999
+        AJNDE020:    With cash rent: $1,000 to $1,249
+        AJNDE021:    With cash rent: $1,250 to $1,499
+        AJNDE022:    With cash rent: $1,500 to $1,999
+        AJNDE023:    With cash rent: $2,000 to $2,499
+        AJNDE024:    With cash rent: $2,500 to $2,999
+        AJNDE025:    With cash rent: $3,000 to $3,499
+        AJNDE026:    With cash rent: $3,500 or more
+        AJNDE027:    No cash rent
+ 
+Data Type (M):
+    Margins of error
+ 
+        NAME_M:      Area Name
+ 
+    Table 1:     Educational Attainment for the Population 25 Years and Over
+    Universe:    Population 25 years and over
+    Source code: B15003
+    NHGIS code:  AI71
+        AI71M001:    Total
+        AI71M002:    No schooling completed
+        AI71M003:    Nursery school
+        AI71M004:    Kindergarten
+        AI71M005:    1st grade
+        AI71M006:    2nd grade
+        AI71M007:    3rd grade
+        AI71M008:    4th grade
+        AI71M009:    5th grade
+        AI71M010:    6th grade
+        AI71M011:    7th grade
+        AI71M012:    8th grade
+        AI71M013:    9th grade
+        AI71M014:    10th grade
+        AI71M015:    11th grade
+        AI71M016:    12th grade, no diploma
+        AI71M017:    Regular high school diploma
+        AI71M018:    GED or alternative credential
+        AI71M019:    Some college, less than 1 year
+        AI71M020:    Some college, 1 or more years, no degree
+        AI71M021:    Associate's degree
+        AI71M022:    Bachelor's degree
+        AI71M023:    Master's degree
+        AI71M024:    Professional school degree
+        AI71M025:    Doctorate degree
+ 
+    Table 2:     Household Income in the Past 12 Months (in 2018 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19001
+    NHGIS code:  AJCT
+        AJCTM001:    Total
+        AJCTM002:    Less than $10,000
+        AJCTM003:    $10,000 to $14,999
+        AJCTM004:    $15,000 to $19,999
+        AJCTM005:    $20,000 to $24,999
+        AJCTM006:    $25,000 to $29,999
+        AJCTM007:    $30,000 to $34,999
+        AJCTM008:    $35,000 to $39,999
+        AJCTM009:    $40,000 to $44,999
+        AJCTM010:    $45,000 to $49,999
+        AJCTM011:    $50,000 to $59,999
+        AJCTM012:    $60,000 to $74,999
+        AJCTM013:    $75,000 to $99,999
+        AJCTM014:    $100,000 to $124,999
+        AJCTM015:    $125,000 to $149,999
+        AJCTM016:    $150,000 to $199,999
+        AJCTM017:    $200,000 or more
+ 
+    Table 3:     Median Household Income in the Past 12 Months (in 2018 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19013
+    NHGIS code:  AJC3
+        AJC3M001:    Median household income in the past 12 months (in 2018 inflation-adjusted dollars)
+ 
+    Table 4:     Year Structure Built
+    Universe:    Housing units
+    Source code: B25034
+    NHGIS code:  AJMH
+        AJMHM001:    Total
+        AJMHM002:    Built 2014 or later
+        AJMHM003:    Built 2010 to 2013
+        AJMHM004:    Built 2000 to 2009
+        AJMHM005:    Built 1990 to 1999
+        AJMHM006:    Built 1980 to 1989
+        AJMHM007:    Built 1970 to 1979
+        AJMHM008:    Built 1960 to 1969
+        AJMHM009:    Built 1950 to 1959
+        AJMHM010:    Built 1940 to 1949
+        AJMHM011:    Built 1939 or earlier
+ 
+    Table 5:     Gross Rent
+    Universe:    Renter-occupied housing units
+    Source code: B25063
+    NHGIS code:  AJND
+        AJNDM001:    Total
+        AJNDM002:    With cash rent
+        AJNDM003:    With cash rent: Less than $100
+        AJNDM004:    With cash rent: $100 to $149
+        AJNDM005:    With cash rent: $150 to $199
+        AJNDM006:    With cash rent: $200 to $249
+        AJNDM007:    With cash rent: $250 to $299
+        AJNDM008:    With cash rent: $300 to $349
+        AJNDM009:    With cash rent: $350 to $399
+        AJNDM010:    With cash rent: $400 to $449
+        AJNDM011:    With cash rent: $450 to $499
+        AJNDM012:    With cash rent: $500 to $549
+        AJNDM013:    With cash rent: $550 to $599
+        AJNDM014:    With cash rent: $600 to $649
+        AJNDM015:    With cash rent: $650 to $699
+        AJNDM016:    With cash rent: $700 to $749
+        AJNDM017:    With cash rent: $750 to $799
+        AJNDM018:    With cash rent: $800 to $899
+        AJNDM019:    With cash rent: $900 to $999
+        AJNDM020:    With cash rent: $1,000 to $1,249
+        AJNDM021:    With cash rent: $1,250 to $1,499
+        AJNDM022:    With cash rent: $1,500 to $1,999
+        AJNDM023:    With cash rent: $2,000 to $2,499
+        AJNDM024:    With cash rent: $2,500 to $2,999
+        AJNDM025:    With cash rent: $3,000 to $3,499
+        AJNDM026:    With cash rent: $3,500 or more
+        AJNDM027:    No cash rent
+    
+2018 Place Codebook
+
+    Data Type (E):
+    Estimates
+ 
+        NAME_E:      Area Name
+ 
+    Table 1:     Educational Attainment for the Population 25 Years and Over
+    Universe:    Population 25 years and over
+    Source code: B15003
+    NHGIS code:  AI71
+        AI71E001:    Total
+        AI71E002:    No schooling completed
+        AI71E003:    Nursery school
+        AI71E004:    Kindergarten
+        AI71E005:    1st grade
+        AI71E006:    2nd grade
+        AI71E007:    3rd grade
+        AI71E008:    4th grade
+        AI71E009:    5th grade
+        AI71E010:    6th grade
+        AI71E011:    7th grade
+        AI71E012:    8th grade
+        AI71E013:    9th grade
+        AI71E014:    10th grade
+        AI71E015:    11th grade
+        AI71E016:    12th grade, no diploma
+        AI71E017:    Regular high school diploma
+        AI71E018:    GED or alternative credential
+        AI71E019:    Some college, less than 1 year
+        AI71E020:    Some college, 1 or more years, no degree
+        AI71E021:    Associate's degree
+        AI71E022:    Bachelor's degree
+        AI71E023:    Master's degree
+        AI71E024:    Professional school degree
+        AI71E025:    Doctorate degree
+ 
+    Table 2:     Household Income in the Past 12 Months (in 2018 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19001
+    NHGIS code:  AJCT
+        AJCTE001:    Total
+        AJCTE002:    Less than $10,000
+        AJCTE003:    $10,000 to $14,999
+        AJCTE004:    $15,000 to $19,999
+        AJCTE005:    $20,000 to $24,999
+        AJCTE006:    $25,000 to $29,999
+        AJCTE007:    $30,000 to $34,999
+        AJCTE008:    $35,000 to $39,999
+        AJCTE009:    $40,000 to $44,999
+        AJCTE010:    $45,000 to $49,999
+        AJCTE011:    $50,000 to $59,999
+        AJCTE012:    $60,000 to $74,999
+        AJCTE013:    $75,000 to $99,999
+        AJCTE014:    $100,000 to $124,999
+        AJCTE015:    $125,000 to $149,999
+        AJCTE016:    $150,000 to $199,999
+        AJCTE017:    $200,000 or more
+ 
+    Table 3:     Median Household Income in the Past 12 Months (in 2018 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19013
+    NHGIS code:  AJC3
+        AJC3E001:    Median household income in the past 12 months (in 2018 inflation-adjusted dollars)
+ 
+    Table 4:     Year Structure Built
+    Universe:    Housing units
+    Source code: B25034
+    NHGIS code:  AJMH
+        AJMHE001:    Total
+        AJMHE002:    Built 2014 or later
+        AJMHE003:    Built 2010 to 2013
+        AJMHE004:    Built 2000 to 2009
+        AJMHE005:    Built 1990 to 1999
+        AJMHE006:    Built 1980 to 1989
+        AJMHE007:    Built 1970 to 1979
+        AJMHE008:    Built 1960 to 1969
+        AJMHE009:    Built 1950 to 1959
+        AJMHE010:    Built 1940 to 1949
+        AJMHE011:    Built 1939 or earlier
+ 
+    Table 5:     Gross Rent
+    Universe:    Renter-occupied housing units
+    Source code: B25063
+    NHGIS code:  AJND
+        AJNDE001:    Total
+        AJNDE002:    With cash rent
+        AJNDE003:    With cash rent: Less than $100
+        AJNDE004:    With cash rent: $100 to $149
+        AJNDE005:    With cash rent: $150 to $199
+        AJNDE006:    With cash rent: $200 to $249
+        AJNDE007:    With cash rent: $250 to $299
+        AJNDE008:    With cash rent: $300 to $349
+        AJNDE009:    With cash rent: $350 to $399
+        AJNDE010:    With cash rent: $400 to $449
+        AJNDE011:    With cash rent: $450 to $499
+        AJNDE012:    With cash rent: $500 to $549
+        AJNDE013:    With cash rent: $550 to $599
+        AJNDE014:    With cash rent: $600 to $649
+        AJNDE015:    With cash rent: $650 to $699
+        AJNDE016:    With cash rent: $700 to $749
+        AJNDE017:    With cash rent: $750 to $799
+        AJNDE018:    With cash rent: $800 to $899
+        AJNDE019:    With cash rent: $900 to $999
+        AJNDE020:    With cash rent: $1,000 to $1,249
+        AJNDE021:    With cash rent: $1,250 to $1,499
+        AJNDE022:    With cash rent: $1,500 to $1,999
+        AJNDE023:    With cash rent: $2,000 to $2,499
+        AJNDE024:    With cash rent: $2,500 to $2,999
+        AJNDE025:    With cash rent: $3,000 to $3,499
+        AJNDE026:    With cash rent: $3,500 or more
+        AJNDE027:    No cash rent
+ 
+Data Type (M):
+    Margins of error
+ 
+        NAME_M:      Area Name
+ 
+    Table 1:     Educational Attainment for the Population 25 Years and Over
+    Universe:    Population 25 years and over
+    Source code: B15003
+    NHGIS code:  AI71
+        AI71M001:    Total
+        AI71M002:    No schooling completed
+        AI71M003:    Nursery school
+        AI71M004:    Kindergarten
+        AI71M005:    1st grade
+        AI71M006:    2nd grade
+        AI71M007:    3rd grade
+        AI71M008:    4th grade
+        AI71M009:    5th grade
+        AI71M010:    6th grade
+        AI71M011:    7th grade
+        AI71M012:    8th grade
+        AI71M013:    9th grade
+        AI71M014:    10th grade
+        AI71M015:    11th grade
+        AI71M016:    12th grade, no diploma
+        AI71M017:    Regular high school diploma
+        AI71M018:    GED or alternative credential
+        AI71M019:    Some college, less than 1 year
+        AI71M020:    Some college, 1 or more years, no degree
+        AI71M021:    Associate's degree
+        AI71M022:    Bachelor's degree
+        AI71M023:    Master's degree
+        AI71M024:    Professional school degree
+        AI71M025:    Doctorate degree
+ 
+    Table 2:     Household Income in the Past 12 Months (in 2018 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19001
+    NHGIS code:  AJCT
+        AJCTM001:    Total
+        AJCTM002:    Less than $10,000
+        AJCTM003:    $10,000 to $14,999
+        AJCTM004:    $15,000 to $19,999
+        AJCTM005:    $20,000 to $24,999
+        AJCTM006:    $25,000 to $29,999
+        AJCTM007:    $30,000 to $34,999
+        AJCTM008:    $35,000 to $39,999
+        AJCTM009:    $40,000 to $44,999
+        AJCTM010:    $45,000 to $49,999
+        AJCTM011:    $50,000 to $59,999
+        AJCTM012:    $60,000 to $74,999
+        AJCTM013:    $75,000 to $99,999
+        AJCTM014:    $100,000 to $124,999
+        AJCTM015:    $125,000 to $149,999
+        AJCTM016:    $150,000 to $199,999
+        AJCTM017:    $200,000 or more
+ 
+    Table 3:     Median Household Income in the Past 12 Months (in 2018 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19013
+    NHGIS code:  AJC3
+        AJC3M001:    Median household income in the past 12 months (in 2018 inflation-adjusted dollars)
+ 
+    Table 4:     Year Structure Built
+    Universe:    Housing units
+    Source code: B25034
+    NHGIS code:  AJMH
+        AJMHM001:    Total
+        AJMHM002:    Built 2014 or later
+        AJMHM003:    Built 2010 to 2013
+        AJMHM004:    Built 2000 to 2009
+        AJMHM005:    Built 1990 to 1999
+        AJMHM006:    Built 1980 to 1989
+        AJMHM007:    Built 1970 to 1979
+        AJMHM008:    Built 1960 to 1969
+        AJMHM009:    Built 1950 to 1959
+        AJMHM010:    Built 1940 to 1949
+        AJMHM011:    Built 1939 or earlier
+ 
+    Table 5:     Gross Rent
+    Universe:    Renter-occupied housing units
+    Source code: B25063
+    NHGIS code:  AJND
+        AJNDM001:    Total
+        AJNDM002:    With cash rent
+        AJNDM003:    With cash rent: Less than $100
+        AJNDM004:    With cash rent: $100 to $149
+        AJNDM005:    With cash rent: $150 to $199
+        AJNDM006:    With cash rent: $200 to $249
+        AJNDM007:    With cash rent: $250 to $299
+        AJNDM008:    With cash rent: $300 to $349
+        AJNDM009:    With cash rent: $350 to $399
+        AJNDM010:    With cash rent: $400 to $449
+        AJNDM011:    With cash rent: $450 to $499
+        AJNDM012:    With cash rent: $500 to $549
+        AJNDM013:    With cash rent: $550 to $599
+        AJNDM014:    With cash rent: $600 to $649
+        AJNDM015:    With cash rent: $650 to $699
+        AJNDM016:    With cash rent: $700 to $749
+        AJNDM017:    With cash rent: $750 to $799
+        AJNDM018:    With cash rent: $800 to $899
+        AJNDM019:    With cash rent: $900 to $999
+        AJNDM020:    With cash rent: $1,000 to $1,249
+        AJNDM021:    With cash rent: $1,250 to $1,499
+        AJNDM022:    With cash rent: $1,500 to $1,999
+        AJNDM023:    With cash rent: $2,000 to $2,499
+        AJNDM024:    With cash rent: $2,500 to $2,999
+        AJNDM025:    With cash rent: $3,000 to $3,499
+        AJNDM026:    With cash rent: $3,500 or more
+        AJNDM027:    No cash rent
+        
+
+2018 State Codebook
+
+    Data Type (E):
+    Estimates
+ 
+        NAME_E:      Area Name
+ 
+    Table 1:     Educational Attainment for the Population 25 Years and Over
+    Universe:    Population 25 years and over
+    Source code: B15003
+    NHGIS code:  AI71
+        AI71E001:    Total
+        AI71E002:    No schooling completed
+        AI71E003:    Nursery school
+        AI71E004:    Kindergarten
+        AI71E005:    1st grade
+        AI71E006:    2nd grade
+        AI71E007:    3rd grade
+        AI71E008:    4th grade
+        AI71E009:    5th grade
+        AI71E010:    6th grade
+        AI71E011:    7th grade
+        AI71E012:    8th grade
+        AI71E013:    9th grade
+        AI71E014:    10th grade
+        AI71E015:    11th grade
+        AI71E016:    12th grade, no diploma
+        AI71E017:    Regular high school diploma
+        AI71E018:    GED or alternative credential
+        AI71E019:    Some college, less than 1 year
+        AI71E020:    Some college, 1 or more years, no degree
+        AI71E021:    Associate's degree
+        AI71E022:    Bachelor's degree
+        AI71E023:    Master's degree
+        AI71E024:    Professional school degree
+        AI71E025:    Doctorate degree
+ 
+    Table 2:     Household Income in the Past 12 Months (in 2018 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19001
+    NHGIS code:  AJCT
+        AJCTE001:    Total
+        AJCTE002:    Less than $10,000
+        AJCTE003:    $10,000 to $14,999
+        AJCTE004:    $15,000 to $19,999
+        AJCTE005:    $20,000 to $24,999
+        AJCTE006:    $25,000 to $29,999
+        AJCTE007:    $30,000 to $34,999
+        AJCTE008:    $35,000 to $39,999
+        AJCTE009:    $40,000 to $44,999
+        AJCTE010:    $45,000 to $49,999
+        AJCTE011:    $50,000 to $59,999
+        AJCTE012:    $60,000 to $74,999
+        AJCTE013:    $75,000 to $99,999
+        AJCTE014:    $100,000 to $124,999
+        AJCTE015:    $125,000 to $149,999
+        AJCTE016:    $150,000 to $199,999
+        AJCTE017:    $200,000 or more
+ 
+    Table 3:     Median Household Income in the Past 12 Months (in 2018 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19013
+    NHGIS code:  AJC3
+        AJC3E001:    Median household income in the past 12 months (in 2018 inflation-adjusted dollars)
+ 
+    Table 4:     Year Structure Built
+    Universe:    Housing units
+    Source code: B25034
+    NHGIS code:  AJMH
+        AJMHE001:    Total
+        AJMHE002:    Built 2014 or later
+        AJMHE003:    Built 2010 to 2013
+        AJMHE004:    Built 2000 to 2009
+        AJMHE005:    Built 1990 to 1999
+        AJMHE006:    Built 1980 to 1989
+        AJMHE007:    Built 1970 to 1979
+        AJMHE008:    Built 1960 to 1969
+        AJMHE009:    Built 1950 to 1959
+        AJMHE010:    Built 1940 to 1949
+        AJMHE011:    Built 1939 or earlier
+ 
+    Table 5:     Gross Rent
+    Universe:    Renter-occupied housing units
+    Source code: B25063
+    NHGIS code:  AJND
+        AJNDE001:    Total
+        AJNDE002:    With cash rent
+        AJNDE003:    With cash rent: Less than $100
+        AJNDE004:    With cash rent: $100 to $149
+        AJNDE005:    With cash rent: $150 to $199
+        AJNDE006:    With cash rent: $200 to $249
+        AJNDE007:    With cash rent: $250 to $299
+        AJNDE008:    With cash rent: $300 to $349
+        AJNDE009:    With cash rent: $350 to $399
+        AJNDE010:    With cash rent: $400 to $449
+        AJNDE011:    With cash rent: $450 to $499
+        AJNDE012:    With cash rent: $500 to $549
+        AJNDE013:    With cash rent: $550 to $599
+        AJNDE014:    With cash rent: $600 to $649
+        AJNDE015:    With cash rent: $650 to $699
+        AJNDE016:    With cash rent: $700 to $749
+        AJNDE017:    With cash rent: $750 to $799
+        AJNDE018:    With cash rent: $800 to $899
+        AJNDE019:    With cash rent: $900 to $999
+        AJNDE020:    With cash rent: $1,000 to $1,249
+        AJNDE021:    With cash rent: $1,250 to $1,499
+        AJNDE022:    With cash rent: $1,500 to $1,999
+        AJNDE023:    With cash rent: $2,000 to $2,499
+        AJNDE024:    With cash rent: $2,500 to $2,999
+        AJNDE025:    With cash rent: $3,000 to $3,499
+        AJNDE026:    With cash rent: $3,500 or more
+        AJNDE027:    No cash rent
+ 
+Data Type (M):
+    Margins of error
+ 
+        NAME_M:      Area Name
+ 
+    Table 1:     Educational Attainment for the Population 25 Years and Over
+    Universe:    Population 25 years and over
+    Source code: B15003
+    NHGIS code:  AI71
+        AI71M001:    Total
+        AI71M002:    No schooling completed
+        AI71M003:    Nursery school
+        AI71M004:    Kindergarten
+        AI71M005:    1st grade
+        AI71M006:    2nd grade
+        AI71M007:    3rd grade
+        AI71M008:    4th grade
+        AI71M009:    5th grade
+        AI71M010:    6th grade
+        AI71M011:    7th grade
+        AI71M012:    8th grade
+        AI71M013:    9th grade
+        AI71M014:    10th grade
+        AI71M015:    11th grade
+        AI71M016:    12th grade, no diploma
+        AI71M017:    Regular high school diploma
+        AI71M018:    GED or alternative credential
+        AI71M019:    Some college, less than 1 year
+        AI71M020:    Some college, 1 or more years, no degree
+        AI71M021:    Associate's degree
+        AI71M022:    Bachelor's degree
+        AI71M023:    Master's degree
+        AI71M024:    Professional school degree
+        AI71M025:    Doctorate degree
+ 
+    Table 2:     Household Income in the Past 12 Months (in 2018 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19001
+    NHGIS code:  AJCT
+        AJCTM001:    Total
+        AJCTM002:    Less than $10,000
+        AJCTM003:    $10,000 to $14,999
+        AJCTM004:    $15,000 to $19,999
+        AJCTM005:    $20,000 to $24,999
+        AJCTM006:    $25,000 to $29,999
+        AJCTM007:    $30,000 to $34,999
+        AJCTM008:    $35,000 to $39,999
+        AJCTM009:    $40,000 to $44,999
+        AJCTM010:    $45,000 to $49,999
+        AJCTM011:    $50,000 to $59,999
+        AJCTM012:    $60,000 to $74,999
+        AJCTM013:    $75,000 to $99,999
+        AJCTM014:    $100,000 to $124,999
+        AJCTM015:    $125,000 to $149,999
+        AJCTM016:    $150,000 to $199,999
+        AJCTM017:    $200,000 or more
+ 
+    Table 3:     Median Household Income in the Past 12 Months (in 2018 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19013
+    NHGIS code:  AJC3
+        AJC3M001:    Median household income in the past 12 months (in 2018 inflation-adjusted dollars)
+ 
+    Table 4:     Year Structure Built
+    Universe:    Housing units
+    Source code: B25034
+    NHGIS code:  AJMH
+        AJMHM001:    Total
+        AJMHM002:    Built 2014 or later
+        AJMHM003:    Built 2010 to 2013
+        AJMHM004:    Built 2000 to 2009
+        AJMHM005:    Built 1990 to 1999
+        AJMHM006:    Built 1980 to 1989
+        AJMHM007:    Built 1970 to 1979
+        AJMHM008:    Built 1960 to 1969
+        AJMHM009:    Built 1950 to 1959
+        AJMHM010:    Built 1940 to 1949
+        AJMHM011:    Built 1939 or earlier
+ 
+    Table 5:     Gross Rent
+    Universe:    Renter-occupied housing units
+    Source code: B25063
+    NHGIS code:  AJND
+        AJNDM001:    Total
+        AJNDM002:    With cash rent
+        AJNDM003:    With cash rent: Less than $100
+        AJNDM004:    With cash rent: $100 to $149
+        AJNDM005:    With cash rent: $150 to $199
+        AJNDM006:    With cash rent: $200 to $249
+        AJNDM007:    With cash rent: $250 to $299
+        AJNDM008:    With cash rent: $300 to $349
+        AJNDM009:    With cash rent: $350 to $399
+        AJNDM010:    With cash rent: $400 to $449
+        AJNDM011:    With cash rent: $450 to $499
+        AJNDM012:    With cash rent: $500 to $549
+        AJNDM013:    With cash rent: $550 to $599
+        AJNDM014:    With cash rent: $600 to $649
+        AJNDM015:    With cash rent: $650 to $699
+        AJNDM016:    With cash rent: $700 to $749
+        AJNDM017:    With cash rent: $750 to $799
+        AJNDM018:    With cash rent: $800 to $899
+        AJNDM019:    With cash rent: $900 to $999
+        AJNDM020:    With cash rent: $1,000 to $1,249
+        AJNDM021:    With cash rent: $1,250 to $1,499
+        AJNDM022:    With cash rent: $1,500 to $1,999
+        AJNDM023:    With cash rent: $2,000 to $2,499
+        AJNDM024:    With cash rent: $2,500 to $2,999
+        AJNDM025:    With cash rent: $3,000 to $3,499
+        AJNDM026:    With cash rent: $3,500 or more
+        AJNDM027:    No cash rent
+ 
+
+2018 Urban Area Codebook
+
+    Data Type (E):
+    Estimates
+ 
+        NAME_E:      Area Name
+ 
+    Table 1:     Educational Attainment for the Population 25 Years and Over
+    Universe:    Population 25 years and over
+    Source code: B15003
+    NHGIS code:  AI71
+        AI71E001:    Total
+        AI71E002:    No schooling completed
+        AI71E003:    Nursery school
+        AI71E004:    Kindergarten
+        AI71E005:    1st grade
+        AI71E006:    2nd grade
+        AI71E007:    3rd grade
+        AI71E008:    4th grade
+        AI71E009:    5th grade
+        AI71E010:    6th grade
+        AI71E011:    7th grade
+        AI71E012:    8th grade
+        AI71E013:    9th grade
+        AI71E014:    10th grade
+        AI71E015:    11th grade
+        AI71E016:    12th grade, no diploma
+        AI71E017:    Regular high school diploma
+        AI71E018:    GED or alternative credential
+        AI71E019:    Some college, less than 1 year
+        AI71E020:    Some college, 1 or more years, no degree
+        AI71E021:    Associate's degree
+        AI71E022:    Bachelor's degree
+        AI71E023:    Master's degree
+        AI71E024:    Professional school degree
+        AI71E025:    Doctorate degree
+ 
+    Table 2:     Household Income in the Past 12 Months (in 2018 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19001
+    NHGIS code:  AJCT
+        AJCTE001:    Total
+        AJCTE002:    Less than $10,000
+        AJCTE003:    $10,000 to $14,999
+        AJCTE004:    $15,000 to $19,999
+        AJCTE005:    $20,000 to $24,999
+        AJCTE006:    $25,000 to $29,999
+        AJCTE007:    $30,000 to $34,999
+        AJCTE008:    $35,000 to $39,999
+        AJCTE009:    $40,000 to $44,999
+        AJCTE010:    $45,000 to $49,999
+        AJCTE011:    $50,000 to $59,999
+        AJCTE012:    $60,000 to $74,999
+        AJCTE013:    $75,000 to $99,999
+        AJCTE014:    $100,000 to $124,999
+        AJCTE015:    $125,000 to $149,999
+        AJCTE016:    $150,000 to $199,999
+        AJCTE017:    $200,000 or more
+ 
+    Table 3:     Median Household Income in the Past 12 Months (in 2018 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19013
+    NHGIS code:  AJC3
+        AJC3E001:    Median household income in the past 12 months (in 2018 inflation-adjusted dollars)
+ 
+    Table 4:     Year Structure Built
+    Universe:    Housing units
+    Source code: B25034
+    NHGIS code:  AJMH
+        AJMHE001:    Total
+        AJMHE002:    Built 2014 or later
+        AJMHE003:    Built 2010 to 2013
+        AJMHE004:    Built 2000 to 2009
+        AJMHE005:    Built 1990 to 1999
+        AJMHE006:    Built 1980 to 1989
+        AJMHE007:    Built 1970 to 1979
+        AJMHE008:    Built 1960 to 1969
+        AJMHE009:    Built 1950 to 1959
+        AJMHE010:    Built 1940 to 1949
+        AJMHE011:    Built 1939 or earlier
+ 
+    Table 5:     Gross Rent
+    Universe:    Renter-occupied housing units
+    Source code: B25063
+    NHGIS code:  AJND
+        AJNDE001:    Total
+        AJNDE002:    With cash rent
+        AJNDE003:    With cash rent: Less than $100
+        AJNDE004:    With cash rent: $100 to $149
+        AJNDE005:    With cash rent: $150 to $199
+        AJNDE006:    With cash rent: $200 to $249
+        AJNDE007:    With cash rent: $250 to $299
+        AJNDE008:    With cash rent: $300 to $349
+        AJNDE009:    With cash rent: $350 to $399
+        AJNDE010:    With cash rent: $400 to $449
+        AJNDE011:    With cash rent: $450 to $499
+        AJNDE012:    With cash rent: $500 to $549
+        AJNDE013:    With cash rent: $550 to $599
+        AJNDE014:    With cash rent: $600 to $649
+        AJNDE015:    With cash rent: $650 to $699
+        AJNDE016:    With cash rent: $700 to $749
+        AJNDE017:    With cash rent: $750 to $799
+        AJNDE018:    With cash rent: $800 to $899
+        AJNDE019:    With cash rent: $900 to $999
+        AJNDE020:    With cash rent: $1,000 to $1,249
+        AJNDE021:    With cash rent: $1,250 to $1,499
+        AJNDE022:    With cash rent: $1,500 to $1,999
+        AJNDE023:    With cash rent: $2,000 to $2,499
+        AJNDE024:    With cash rent: $2,500 to $2,999
+        AJNDE025:    With cash rent: $3,000 to $3,499
+        AJNDE026:    With cash rent: $3,500 or more
+        AJNDE027:    No cash rent
+ 
+Data Type (M):
+    Margins of error
+ 
+        NAME_M:      Area Name
+ 
+    Table 1:     Educational Attainment for the Population 25 Years and Over
+    Universe:    Population 25 years and over
+    Source code: B15003
+    NHGIS code:  AI71
+        AI71M001:    Total
+        AI71M002:    No schooling completed
+        AI71M003:    Nursery school
+        AI71M004:    Kindergarten
+        AI71M005:    1st grade
+        AI71M006:    2nd grade
+        AI71M007:    3rd grade
+        AI71M008:    4th grade
+        AI71M009:    5th grade
+        AI71M010:    6th grade
+        AI71M011:    7th grade
+        AI71M012:    8th grade
+        AI71M013:    9th grade
+        AI71M014:    10th grade
+        AI71M015:    11th grade
+        AI71M016:    12th grade, no diploma
+        AI71M017:    Regular high school diploma
+        AI71M018:    GED or alternative credential
+        AI71M019:    Some college, less than 1 year
+        AI71M020:    Some college, 1 or more years, no degree
+        AI71M021:    Associate's degree
+        AI71M022:    Bachelor's degree
+        AI71M023:    Master's degree
+        AI71M024:    Professional school degree
+        AI71M025:    Doctorate degree
+ 
+    Table 2:     Household Income in the Past 12 Months (in 2018 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19001
+    NHGIS code:  AJCT
+        AJCTM001:    Total
+        AJCTM002:    Less than $10,000
+        AJCTM003:    $10,000 to $14,999
+        AJCTM004:    $15,000 to $19,999
+        AJCTM005:    $20,000 to $24,999
+        AJCTM006:    $25,000 to $29,999
+        AJCTM007:    $30,000 to $34,999
+        AJCTM008:    $35,000 to $39,999
+        AJCTM009:    $40,000 to $44,999
+        AJCTM010:    $45,000 to $49,999
+        AJCTM011:    $50,000 to $59,999
+        AJCTM012:    $60,000 to $74,999
+        AJCTM013:    $75,000 to $99,999
+        AJCTM014:    $100,000 to $124,999
+        AJCTM015:    $125,000 to $149,999
+        AJCTM016:    $150,000 to $199,999
+        AJCTM017:    $200,000 or more
+ 
+    Table 3:     Median Household Income in the Past 12 Months (in 2018 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19013
+    NHGIS code:  AJC3
+        AJC3M001:    Median household income in the past 12 months (in 2018 inflation-adjusted dollars)
+ 
+    Table 4:     Year Structure Built
+    Universe:    Housing units
+    Source code: B25034
+    NHGIS code:  AJMH
+        AJMHM001:    Total
+        AJMHM002:    Built 2014 or later
+        AJMHM003:    Built 2010 to 2013
+        AJMHM004:    Built 2000 to 2009
+        AJMHM005:    Built 1990 to 1999
+        AJMHM006:    Built 1980 to 1989
+        AJMHM007:    Built 1970 to 1979
+        AJMHM008:    Built 1960 to 1969
+        AJMHM009:    Built 1950 to 1959
+        AJMHM010:    Built 1940 to 1949
+        AJMHM011:    Built 1939 or earlier
+ 
+    Table 5:     Gross Rent
+    Universe:    Renter-occupied housing units
+    Source code: B25063
+    NHGIS code:  AJND
+        AJNDM001:    Total
+        AJNDM002:    With cash rent
+        AJNDM003:    With cash rent: Less than $100
+        AJNDM004:    With cash rent: $100 to $149
+        AJNDM005:    With cash rent: $150 to $199
+        AJNDM006:    With cash rent: $200 to $249
+        AJNDM007:    With cash rent: $250 to $299
+        AJNDM008:    With cash rent: $300 to $349
+        AJNDM009:    With cash rent: $350 to $399
+        AJNDM010:    With cash rent: $400 to $449
+        AJNDM011:    With cash rent: $450 to $499
+        AJNDM012:    With cash rent: $500 to $549
+        AJNDM013:    With cash rent: $550 to $599
+        AJNDM014:    With cash rent: $600 to $649
+        AJNDM015:    With cash rent: $650 to $699
+        AJNDM016:    With cash rent: $700 to $749
+        AJNDM017:    With cash rent: $750 to $799
+        AJNDM018:    With cash rent: $800 to $899
+        AJNDM019:    With cash rent: $900 to $999
+        AJNDM020:    With cash rent: $1,000 to $1,249
+        AJNDM021:    With cash rent: $1,250 to $1,499
+        AJNDM022:    With cash rent: $1,500 to $1,999
+        AJNDM023:    With cash rent: $2,000 to $2,499
+        AJNDM024:    With cash rent: $2,500 to $2,999
+        AJNDM025:    With cash rent: $3,000 to $3,499
+        AJNDM026:    With cash rent: $3,500 or more
+        AJNDM027:    No cash rent
+ 
+
+    
